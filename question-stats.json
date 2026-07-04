@@ -1,0 +1,15 @@
+{
+  "source": "答案.docx",
+  "count": 155,
+  "types": {
+    "名词解释": 4,
+    "简答题": 9,
+    "案例分析题": 7,
+    "单选题": 89,
+    "填空题": 25,
+    "判断题": 21
+  },
+  "missingAnswerIds": [],
+  "missingOptionIds": [],
+  "answerContainsMyAnswerIds": []
+}

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>项目管理排位复习</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="arena">
+        <div class="rank-panel">
+          <img class="arena-art" src="assets/rank-arena.svg" alt="" />
+          <div>
+            <p class="eyebrow">项目管理期末开卷</p>
+            <h1>排位闯关</h1>
+          </div>
+          <div class="rank-badge" id="rankBadge">青铜</div>
+          <div class="stars" id="stars"></div>
+          <div class="meter">
+            <span id="progressFill"></span>
+          </div>
+          <div class="stats">
+            <span><b id="doneCount">0</b> 已练</span>
+            <span><b id="accuracy">0%</b> 正确率</span>
+            <span><b id="streak">0</b> 连胜</span>
+          </div>
+        </div>
+
+        <section class="duel">
+          <div class="tabs" role="tablist" aria-label="复习模式">
+            <button class="tab active" data-view="battle" type="button">排位</button>
+            <button class="tab" data-view="wrong" type="button">错题</button>
+            <button class="tab" data-view="bank" type="button">题库</button>
+          </div>
+
+          <article class="battle-view view active" id="battleView">
+            <div class="question-head">
+              <span id="questionType">单选题</span>
+              <span id="questionIndex">1 / 155</span>
+            </div>
+            <h2 id="questionStem"></h2>
+            <div class="options" id="options"></div>
+            <div class="fill-row" id="fillRow">
+              <input id="fillInput" autocomplete="off" />
+              <button id="submitFill" type="button">提交</button>
+            </div>
+            <div class="recite-actions" id="reciteActions">
+              <button id="showAnswer" type="button">亮答案</button>
+              <button id="markKnown" type="button">会了</button>
+              <button id="markWrong" type="button">没记住</button>
+            </div>
+            <div class="result" id="result"></div>
+            <div class="answer-panel" id="answerPanel">
+              <p class="label">正确答案</p>
+              <pre id="answerText"></pre>
+              <p class="knowledge" id="knowledge"></p>
+            </div>
+            <div class="actions">
+              <button id="nextQuestion" type="button">下一题</button>
+              <button id="resetProgress" class="secondary" type="button">重置段位</button>
+            </div>
+          </article>
+
+          <article class="view" id="wrongView">
+            <div class="list-head">
+              <h2>错题本</h2>
+              <button id="clearWrong" class="secondary" type="button">清空</button>
+            </div>
+            <div class="question-list" id="wrongList"></div>
+          </article>
+
+          <article class="view" id="bankView">
+            <div class="bank-tools">
+              <input id="searchInput" placeholder="搜索题干、答案、知识点" />
+              <select id="typeFilter" aria-label="题型筛选">
+                <option value="">全部题型</option>
+              </select>
+            </div>
+            <div class="question-list" id="bankList"></div>
+          </article>
+        </section>
+      </section>
+    </main>
+    <script src="questions-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

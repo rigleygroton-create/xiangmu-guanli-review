@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="排位竞技场">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#25334a"/>
+      <stop offset="0.55" stop-color="#151a22"/>
+      <stop offset="1" stop-color="#3b2a18"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#8b6427"/>
+      <stop offset="0.5" stop-color="#f1b84b"/>
+      <stop offset="1" stop-color="#6d4a1d"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#sky)"/>
+  <path d="M0 330 C120 280 205 310 320 264 C450 212 520 270 640 220 L640 480 L0 480 Z" fill="#10151d"/>
+  <path d="M70 300 L190 110 L315 300 Z" fill="#202938"/>
+  <path d="M450 300 L532 136 L610 300 Z" fill="#202938"/>
+  <circle cx="320" cy="210" r="92" fill="#111821" stroke="url(#gold)" stroke-width="10"/>
+  <path d="M320 98 L350 174 L432 180 L368 232 L390 312 L320 268 L250 312 L272 232 L208 180 L290 174 Z" fill="url(#gold)"/>
+  <path d="M120 378 C210 342 430 342 520 378 C458 430 182 430 120 378 Z" fill="#253247" stroke="#536276" stroke-width="4"/>
+  <path d="M176 378 C240 356 400 356 464 378 C410 405 230 405 176 378 Z" fill="#141a24"/>
+  <g fill="#f1b84b" opacity=".75">
+    <rect x="96" y="328" width="30" height="76" rx="6"/>
+    <rect x="514" y="328" width="30" height="76" rx="6"/>
+    <rect x="298" y="338" width="44" height="92" rx="8"/>
+  </g>
+</svg>
