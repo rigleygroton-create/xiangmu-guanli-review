@@ -1,15 +1,22 @@
 {
-  "source": "答案.docx",
-  "count": 155,
+  "source": "答案.docx + 新增题目(模拟题).docx",
+  "count": 186,
   "types": {
-    "名词解释": 4,
-    "简答题": 9,
-    "案例分析题": 7,
-    "单选题": 89,
-    "填空题": 25,
-    "判断题": 21
+    "名词解释": 6,
+    "简答题": 11,
+    "案例分析题": 9,
+    "单选题": 104,
+    "填空题": 30,
+    "判断题": 26
+  },
+  "sources": {
+    "学习通原题库": 155,
+    "检测模拟题": 31
   },
   "missingAnswerIds": [],
   "missingOptionIds": [],
-  "answerContainsMyAnswerIds": []
+  "answerContainsMyAnswerIds": [],
+  "newQuestionCount": 31,
+  "pendingNewQuestionCount": 1,
+  "pendingNewQuestionNote": "新增案例分析题共3道，其中2道有正确答案并已加入题库；案例3只有题目没有答案，暂列待补充。"
 }

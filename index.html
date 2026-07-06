@@ -12,7 +12,7 @@
         <div class="rank-panel">
           <img class="arena-art" src="assets/rank-arena.svg" alt="" />
           <div>
-            <p class="eyebrow">项目管理期末开卷</p>
+            <p class="eyebrow">项目管理期末闭卷</p>
             <h1>排位闯关</h1>
           </div>
           <div class="rank-badge" id="rankBadge">青铜</div>
@@ -21,8 +21,9 @@
             <span id="progressFill"></span>
           </div>
           <div class="stats">
-            <span><b id="doneCount">0</b> 已练</span>
-            <span><b id="accuracy">0%</b> 正确率</span>
+            <span><b id="doneCount">0</b> 本次作答</span>
+            <span><b id="accuracy">0%</b> 本次正确率</span>
+            <span><b id="wrongCount">0</b> 错题数</span>
             <span><b id="streak">0</b> 连胜</span>
           </div>
         </div>
@@ -35,6 +36,16 @@
           </div>
 
           <article class="battle-view view active" id="battleView">
+            <div class="practice-bar">
+              <div class="practice-modes" aria-label="刷题方式">
+                <button class="mode-btn active" data-mode="order" type="button">顺序刷题</button>
+                <button class="mode-btn" data-mode="random" type="button">随机刷题</button>
+                <button class="mode-btn" data-mode="wrong" type="button">只刷错题</button>
+              </div>
+              <select id="battleTypeFilter" aria-label="刷题题型">
+                <option value="单选题">单选题</option>
+              </select>
+            </div>
             <div class="question-head">
               <span id="questionType">单选题</span>
               <span id="questionIndex">1 / 155</span>
@@ -76,11 +87,25 @@
               <select id="typeFilter" aria-label="题型筛选">
                 <option value="">全部题型</option>
               </select>
+              <select id="sourceFilter" aria-label="来源筛选">
+                <option value="">全部来源</option>
+              </select>
             </div>
             <div class="question-list" id="bankList"></div>
           </article>
         </section>
       </section>
+      <div class="round-modal" id="roundModal" aria-hidden="true">
+        <div class="round-card">
+          <p class="label">本轮汇报</p>
+          <h2 id="roundTitle">本轮完成</h2>
+          <p id="roundSummary"></p>
+          <div class="round-actions">
+            <button id="restartRound" type="button">再来一轮</button>
+            <button id="finishRound" class="secondary" type="button">结束刷题</button>
+          </div>
+        </div>
+      </div>
     </main>
     <script src="questions-data.js"></script>
     <script src="app.js"></script>

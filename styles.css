@@ -220,6 +220,43 @@ h1 {
   margin-bottom: 12px;
 }
 
+.practice-bar {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.practice-modes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+  border-radius: 8px;
+  background: #e9eef2;
+  padding: 6px;
+  min-width: min(100%, 380px);
+}
+
+.mode-btn {
+  min-height: 42px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: #13233a;
+  padding: 0 12px;
+  white-space: nowrap;
+}
+
+.mode-btn.active {
+  background: #1b8061;
+  color: #ffffff;
+}
+
+#battleTypeFilter {
+  max-width: 180px;
+}
+
 #questionStem {
   font-size: 24px;
   line-height: 1.45;
@@ -374,7 +411,54 @@ pre {
 
 .bank-tools {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 180px;
+  grid-template-columns: minmax(0, 1fr) 180px 180px;
+}
+
+.source-pill {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--gold);
+  font-size: 13px;
+  padding: 3px 9px;
+}
+
+.round-modal {
+  position: fixed;
+  inset: 0;
+  display: none;
+  place-items: center;
+  padding: 20px;
+  background: rgba(8, 12, 18, 0.68);
+  z-index: 10;
+}
+
+.round-modal.active {
+  display: grid;
+}
+
+.round-card {
+  width: min(420px, 100%);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  padding: 18px;
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.36);
+}
+
+.round-card h2 {
+  margin-bottom: 10px;
+}
+
+.round-card p {
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.round-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  margin-top: 18px;
 }
 
 @media (max-width: 860px) {
@@ -412,8 +496,24 @@ pre {
   }
 
   .fill-row,
+  .practice-bar,
   .bank-tools {
     grid-template-columns: 1fr;
+  }
+
+  .practice-bar,
+  .round-actions {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .practice-modes {
+    min-width: 0;
+    width: 100%;
+  }
+
+  #battleTypeFilter {
+    max-width: none;
   }
 
   .actions,

@@ -8,7 +8,9 @@ window.QUESTION_BANK = [
     "answer": "参与项目或受项目影响的个人和组织，包括项目经理、项目团队成员、客户、供应商、投资方等。",
     "answerKey": "",
     "answerText": "参与项目或受项目影响的个人和组织，包括项目经理、项目团队成员、客户、供应商、投资方等。",
-    "knowledge": "项目干系人的定义"
+    "knowledge": "项目干系人的定义",
+    "source": "学习通原题库",
+    "sourceNo": 1
   },
   {
     "id": 2,
@@ -19,7 +21,9 @@ window.QUESTION_BANK = [
     "answer": "项目过程中可能发生的、对项目目标产生不利影响的不确定事件或条件，具有客观性、偶然性、可变性等特征。",
     "answerKey": "",
     "answerText": "项目过程中可能发生的、对项目目标产生不利影响的不确定事件或条件，具有客观性、偶然性、可变性等特征。",
-    "knowledge": "项目风险的定义"
+    "knowledge": "项目风险的定义",
+    "source": "学习通原题库",
+    "sourceNo": 2
   },
   {
     "id": 3,
@@ -30,7 +34,9 @@ window.QUESTION_BANK = [
     "answer": "确保项目包括且仅包括完成项目所需的所有工作的过程，包括范围规划、范围定义、范围确认和范围控制四个过程，核心是控制项目范围，防止范围蔓延。",
     "answerKey": "",
     "answerText": "确保项目包括且仅包括完成项目所需的所有工作的过程，包括范围规划、范围定义、范围确认和范围控制四个过程，核心是控制项目范围，防止范围蔓延。",
-    "knowledge": "项目范围管理的定义"
+    "knowledge": "项目范围管理的定义",
+    "source": "学习通原题库",
+    "sourceNo": 3
   },
   {
     "id": 4,
@@ -41,7 +47,9 @@ window.QUESTION_BANK = [
     "answer": "在项目活动中运用专门的知识、技能、工具和方法，使项目能够在有限资源限定条件下，实现或超过设定的项目目标的过程。",
     "answerKey": "",
     "answerText": "在项目活动中运用专门的知识、技能、工具和方法，使项目能够在有限资源限定条件下，实现或超过设定的项目目标的过程。",
-    "knowledge": "项目管理的定义"
+    "knowledge": "项目管理的定义",
+    "source": "学习通原题库",
+    "sourceNo": 4
   },
   {
     "id": 5,
@@ -52,7 +60,9 @@ window.QUESTION_BANK = [
     "answer": "项目风险管理是识别、评估、应对、监控项目全过程各类潜在风险，降低风险发生概率与损失，保障项目目标顺利达成的一系列管理活动。",
     "answerKey": "",
     "answerText": "项目风险管理是识别、评估、应对、监控项目全过程各类潜在风险，降低风险发生概率与损失，保障项目目标顺利达成的一系列管理活动。",
-    "knowledge": "风险管理定义"
+    "knowledge": "风险管理定义",
+    "source": "学习通原题库",
+    "sourceNo": 5
   },
   {
     "id": 6,
@@ -63,7 +73,9 @@ window.QUESTION_BANK = [
     "answer": "1. 清晰界定项目工作边界，区分做与不做的内容，避免范围蔓延;2. 作为进度、成本、资源规划的基础依据;3. 减少需求变更争议，规范变更审批流程;4. 保障交付成果符合客户预期，提升项目验收成功率;5. 为绩效考核、任务分解提供标准。",
     "answerKey": "",
     "answerText": "1. 清晰界定项目工作边界，区分做与不做的内容，避免范围蔓延;2. 作为进度、成本、资源规划的基础依据;3. 减少需求变更争议，规范变更审批流程;4. 保障交付成果符合客户预期，提升项目验收成功率;5. 为绩效考核、任务分解提供标准。",
-    "knowledge": "项目范围管理作用项目范围变更管理项目沟通管理优化"
+    "knowledge": "项目范围管理作用项目范围变更管理项目沟通管理优化",
+    "source": "学习通原题库",
+    "sourceNo": 6
   },
   {
     "id": 7,
@@ -74,7 +86,9 @@ window.QUESTION_BANK = [
     "answer": "风险识别:全面梳理政策、技术、市场、进度等各类潜在风险;(1.5分)\n风险评估:划分风险等级，评估影响程度;(1.5分)\n制定应对策略:采用规避、转移、减轻、接受等方式;(1.5分)\n风险监控:全程跟踪风险变化，动态调整应对方案;(1.5分)\n复盘总结，积累风险管控经验。(2分)",
     "answerKey": "",
     "answerText": "风险识别:全面梳理政策、技术、市场、进度等各类潜在风险;(1.5分)\n风险评估:划分风险等级，评估影响程度;(1.5分)\n制定应对策略:采用规避、转移、减轻、接受等方式;(1.5分)\n风险监控:全程跟踪风险变化，动态调整应对方案;(1.5分)\n复盘总结，积累风险管控经验。(2分)",
-    "knowledge": "项目风险管理"
+    "knowledge": "项目风险管理",
+    "source": "学习通原题库",
+    "sourceNo": 7
   },
   {
     "id": 8,
@@ -85,7 +99,9 @@ window.QUESTION_BANK = [
     "answer": "存在问题:1. 项目启动阶段未开展全面风险识别，遗漏核心技术风险;2. 缺少风险评估环节，未预判技术瓶颈发生概率与损失;3. 未提前制定风险应对预案;4. 风险管理仅做一次性工作，未全周期持续监控。\n改进方法:1. 项目启动阶段组织技术、研发团队全面识别技术、资源、市场类风险，编制风险清单;2. 对各类风险开展定性、定量评估，划分风险等级;3. 高等级技术风险提前制定备用技术方案、应急资源;4. 建立常态化风险监控机制，定期复盘风险状态;5. 将风险管理贯穿项目全生命周期，执行阶段持续更新风险清单。",
     "answerKey": "",
     "answerText": "存在问题:1. 项目启动阶段未开展全面风险识别，遗漏核心技术风险;2. 缺少风险评估环节，未预判技术瓶颈发生概率与损失;3. 未提前制定风险应对预案;4. 风险管理仅做一次性工作，未全周期持续监控。\n改进方法:1. 项目启动阶段组织技术、研发团队全面识别技术、资源、市场类风险，编制风险清单;2. 对各类风险开展定性、定量评估，划分风险等级;3. 高等级技术风险提前制定备用技术方案、应急资源;4. 建立常态化风险监控机制，定期复盘风险状态;5. 将风险管理贯穿项目全生命周期，执行阶段持续更新风险清单。",
-    "knowledge": "项目全周期风险管理"
+    "knowledge": "项目全周期风险管理",
+    "source": "学习通原题库",
+    "sourceNo": 8
   },
   {
     "id": 9,
@@ -96,7 +112,9 @@ window.QUESTION_BANK = [
     "answer": "项目是为创造独特的产品、服务或成果而进行的临时性工作，具备一次性、独特性、目标性三大核心特征，受进度、成本、质量三重约束限制。",
     "answerKey": "",
     "answerText": "项目是为创造独特的产品、服务或成果而进行的临时性工作，具备一次性、独特性、目标性三大核心特征，受进度、成本、质量三重约束限制。",
-    "knowledge": "项目定义"
+    "knowledge": "项目定义",
+    "source": "学习通原题库",
+    "sourceNo": 9
   },
   {
     "id": 10,
@@ -107,7 +125,9 @@ window.QUESTION_BANK = [
     "answer": "项目风险管理是识别、评估、应对、监控项目全过程各类潜在风险，降低风险发生概率与损失，保障项目目标顺利达成的一系列管理活动。",
     "answerKey": "",
     "answerText": "项目风险管理是识别、评估、应对、监控项目全过程各类潜在风险，降低风险发生概率与损失，保障项目目标顺利达成的一系列管理活动。",
-    "knowledge": "风险管理定义"
+    "knowledge": "风险管理定义",
+    "source": "学习通原题库",
+    "sourceNo": 10
   },
   {
     "id": 11,
@@ -118,7 +138,9 @@ window.QUESTION_BANK = [
     "answer": "项目是为创造独特的产品、服务或成果而进行的临时性工作，具备一次性、独特性、目标性三大核心特征，受进度、成本、质量三重约束限制。",
     "answerKey": "",
     "answerText": "项目是为创造独特的产品、服务或成果而进行的临时性工作，具备一次性、独特性、目标性三大核心特征，受进度、成本、质量三重约束限制。",
-    "knowledge": "项目定义"
+    "knowledge": "项目定义",
+    "source": "学习通原题库",
+    "sourceNo": 11
   },
   {
     "id": 12,
@@ -129,7 +151,9 @@ window.QUESTION_BANK = [
     "answer": "1. 数字化、智能化:依托项目管理软件、大数据实现进度、成本、风险可视化管控;2. 精细化管理:细化范围、成本、质量全流程管控，杜绝范围蔓延、资源浪费;3. 全生命周期管理:从启动到收尾持续管控，风险管理贯穿全程;4. 跨领域通用化:不再局限建筑军工，广泛应用互联网、研发、服务业;5. 以人为本，重视沟通与团队协同。",
     "answerKey": "",
     "answerText": "1. 数字化、智能化:依托项目管理软件、大数据实现进度、成本、风险可视化管控;2. 精细化管理:细化范围、成本、质量全流程管控，杜绝范围蔓延、资源浪费;3. 全生命周期管理:从启动到收尾持续管控，风险管理贯穿全程;4. 跨领域通用化:不再局限建筑军工，广泛应用互联网、研发、服务业;5. 以人为本，重视沟通与团队协同。",
-    "knowledge": "现代项目管理发展趋势"
+    "knowledge": "现代项目管理发展趋势",
+    "source": "学习通原题库",
+    "sourceNo": 12
   },
   {
     "id": 13,
@@ -140,7 +164,9 @@ window.QUESTION_BANK = [
     "answer": "存在问题:①前期未界定项目范围，无书面交付依据;②需求变更无审批流程，口头修改需求不受约束;③变更前未测算成本、工期损耗;④甲乙双方权责划分模糊。\n整改对策:①立项编制正式范围说明书，双方签字确认;②搭建标准化变更流程，禁止口头改需求;③每次变更前置成本、工期评估;④留存全部变更单据，规避权责纠纷。",
     "answerKey": "",
     "answerText": "存在问题:①前期未界定项目范围，无书面交付依据;②需求变更无审批流程，口头修改需求不受约束;③变更前未测算成本、工期损耗;④甲乙双方权责划分模糊。\n整改对策:①立项编制正式范围说明书，双方签字确认;②搭建标准化变更流程，禁止口头改需求;③每次变更前置成本、工期评估;④留存全部变更单据，规避权责纠纷。",
-    "knowledge": "范围变更管理"
+    "knowledge": "范围变更管理",
+    "source": "学习通原题库",
+    "sourceNo": 13
   },
   {
     "id": 14,
@@ -151,7 +177,9 @@ window.QUESTION_BANK = [
     "answer": "主要冲突类型:① 理念与认知冲突:内部员工熟悉企业业务但缺乏信息化专业理念，外部顾问有专业技术但不了解企业实际业务，实施思路和工作方式存在分歧;② 沟通冲突:内外部团队缺乏有效沟通机制，信息传递不及时、不准确，工作衔接不畅，误解加深;③ 职责与分工冲突:未明确内外部人员具体职责，出现工作交叉或遗漏，双方相互推诿。(2)冲突处理措施:① 明确职责分工:制定详细的团队职责说明书，划分内部员工(业务需求对接、流程梳理)和外部顾问(技术方案设计、系统实施)的具体工作，避免推诿;② 建立有效沟通机制:定期召开项目例会，建立即时沟通渠道，组织业务和技术培训，缩小双方认知差距;③ 采用合适的冲突处理方法:理念分歧用“协作”方式找到最优解，工作衔接冲突用“妥协”方式调整节奏，职责冲突用“强制”方式明确归属;④ 加强团队建设:组织线下座谈、协作任务等团建活动，增进相互了解和信任，营造协同合作的团队氛围。",
     "answerKey": "",
     "answerText": "主要冲突类型:① 理念与认知冲突:内部员工熟悉企业业务但缺乏信息化专业理念，外部顾问有专业技术但不了解企业实际业务，实施思路和工作方式存在分歧;② 沟通冲突:内外部团队缺乏有效沟通机制，信息传递不及时、不准确，工作衔接不畅，误解加深;③ 职责与分工冲突:未明确内外部人员具体职责，出现工作交叉或遗漏，双方相互推诿。(2)冲突处理措施:① 明确职责分工:制定详细的团队职责说明书，划分内部员工(业务需求对接、流程梳理)和外部顾问(技术方案设计、系统实施)的具体工作，避免推诿;② 建立有效沟通机制:定期召开项目例会，建立即时沟通渠道，组织业务和技术培训，缩小双方认知差距;③ 采用合适的冲突处理方法:理念分歧用“协作”方式找到最优解，工作衔接冲突用“妥协”方式调整节奏，职责冲突用“强制”方式明确归属;④ 加强团队建设:组织线下座谈、协作任务等团建活动，增进相互了解和信任，营造协同合作的团队氛围。",
-    "knowledge": "项目人力资源管理"
+    "knowledge": "项目人力资源管理",
+    "source": "学习通原题库",
+    "sourceNo": 14
   },
   {
     "id": 15,
@@ -162,7 +190,9 @@ window.QUESTION_BANK = [
     "answer": "问题：未开展前期风险识别与评估，风险意识薄弱，无预设风险应对方案。（2分）\n改进：\n（1）项目启动阶段全面识别技术、成本、进度等各类风险；（1.5分）\n（2）对风险进行等级评估；（1.5分）\n（3）提前制定规避、减轻等应对策略；（1.5分）\n（4）全程动态监控风险，及时调整应对方案。（1.5分）",
     "answerKey": "",
     "answerText": "问题：未开展前期风险识别与评估，风险意识薄弱，无预设风险应对方案。（2分）\n改进：\n（1）项目启动阶段全面识别技术、成本、进度等各类风险；（1.5分）\n（2）对风险进行等级评估；（1.5分）\n（3）提前制定规避、减轻等应对策略；（1.5分）\n（4）全程动态监控风险，及时调整应对方案。（1.5分）",
-    "knowledge": "项目全周期风险管理"
+    "knowledge": "项目全周期风险管理",
+    "source": "学习通原题库",
+    "sourceNo": 15
   },
   {
     "id": 16,
@@ -173,7 +203,9 @@ window.QUESTION_BANK = [
     "answer": "风险管理存在的问题:① 风险评估不到位:仅识别风险未做定性和定量评估，无法区分关键风险和一般风险，确定优先级;② 未制定风险应对策略:针对识别的风险无针对性应对计划，风险发生后无有效处理措施;③ 风险监控缺失:未建立风险监控机制，未跟踪风险变化、识别风险前兆，风险发生后无法及时处置;④ 风险意识薄弱:项目经理因时间紧张忽视风险管理，团队成员未树立风险意识，未主动参与风险防控。(2)完善风险管理流程的措施:① 全面风险识别:采用头脑风暴法、鱼骨图法等工具，全面识别技术、市场、政策等各类风险，完善风险清单;② 规范风险评估:对风险进行定性评估(概率、影响程度)划分等级，对高等级风险做定量评估计算损失，确定优先级;③ 制定风险应对策略:高风险采用规避/减轻策略，中风险采用转移/减轻策略，低风险采用接受策略，明确应对措施和责任;④ 建立风险监控机制:指定专人跟踪风险变化，更新风险清单和等级，建立风险预警机制，及时处置风险隐患;⑤ 强化风险意识:开展风险管理培训，提升团队风险意识，鼓励全员主动识别和上报风险，形成全员风控氛围。",
     "answerKey": "",
     "answerText": "风险管理存在的问题:① 风险评估不到位:仅识别风险未做定性和定量评估，无法区分关键风险和一般风险，确定优先级;② 未制定风险应对策略:针对识别的风险无针对性应对计划，风险发生后无有效处理措施;③ 风险监控缺失:未建立风险监控机制，未跟踪风险变化、识别风险前兆，风险发生后无法及时处置;④ 风险意识薄弱:项目经理因时间紧张忽视风险管理，团队成员未树立风险意识，未主动参与风险防控。(2)完善风险管理流程的措施:① 全面风险识别:采用头脑风暴法、鱼骨图法等工具，全面识别技术、市场、政策等各类风险，完善风险清单;② 规范风险评估:对风险进行定性评估(概率、影响程度)划分等级，对高等级风险做定量评估计算损失，确定优先级;③ 制定风险应对策略:高风险采用规避/减轻策略，中风险采用转移/减轻策略，低风险采用接受策略，明确应对措施和责任;④ 建立风险监控机制:指定专人跟踪风险变化，更新风险清单和等级，建立风险预警机制，及时处置风险隐患;⑤ 强化风险意识:开展风险管理培训，提升团队风险意识，鼓励全员主动识别和上报风险，形成全员风控氛围。",
-    "knowledge": "项目风险管理"
+    "knowledge": "项目风险管理",
+    "source": "学习通原题库",
+    "sourceNo": 16
   },
   {
     "id": 17,
@@ -184,7 +216,9 @@ window.QUESTION_BANK = [
     "answer": "核心原因:① 范围管理缺失:项目启动阶段未开展详细需求调研，无正式范围说明书，未明确范围边界，引发范围蔓延;② 进度计划制定不合理:未基于明确范围制定计划，缺乏可行性，无法应对范围变更带来的进度滞后;③ 变更控制缺失:未建立规范的范围变更控制流程，对客户新增需求无评估、审批，直接纳入项目范围，导致范围、进度、成本失控。(2)改进措施:① 补充需求调研与范围确认:组织客户和团队开展详细需求调研，形成正式项目范围说明书，明确工作边界，组织各方签字确认作为范围基准;② 建立范围变更控制流程:制定变更管理计划，明确变更申请、评估、审批、执行流程，所有新增需求需评估对进度、成本的影响，审批通过后方可执行;③ 调整进度计划:基于确认的范围分解具体活动，识别关键路径，重新制定详细进度计划，用甘特图等工具监控进度，及时调整滞后问题;④ 加强沟通管理:定期与客户沟通项目进展，反馈范围变更的影响，引导客户理性提出需求，避免不合理的范围扩张。",
     "answerKey": "",
     "answerText": "核心原因:① 范围管理缺失:项目启动阶段未开展详细需求调研，无正式范围说明书，未明确范围边界，引发范围蔓延;② 进度计划制定不合理:未基于明确范围制定计划，缺乏可行性，无法应对范围变更带来的进度滞后;③ 变更控制缺失:未建立规范的范围变更控制流程，对客户新增需求无评估、审批，直接纳入项目范围，导致范围、进度、成本失控。(2)改进措施:① 补充需求调研与范围确认:组织客户和团队开展详细需求调研，形成正式项目范围说明书，明确工作边界，组织各方签字确认作为范围基准;② 建立范围变更控制流程:制定变更管理计划，明确变更申请、评估、审批、执行流程，所有新增需求需评估对进度、成本的影响，审批通过后方可执行;③ 调整进度计划:基于确认的范围分解具体活动，识别关键路径，重新制定详细进度计划，用甘特图等工具监控进度，及时调整滞后问题;④ 加强沟通管理:定期与客户沟通项目进展，反馈范围变更的影响，引导客户理性提出需求，避免不合理的范围扩张。",
-    "knowledge": "项目范围管理"
+    "knowledge": "项目范围管理",
+    "source": "学习通原题库",
+    "sourceNo": 17
   },
   {
     "id": 18,
@@ -195,7 +229,9 @@ window.QUESTION_BANK = [
     "answer": "（1）制定正式项目沟通计划，明确沟通方式、时间、责任人；（2分）\n（2）建立书面报告 + 定期会议的双向沟通机制；（2分）\n（3）统一信息传递渠道，避免多渠道信息混乱；（2分）\n（4）及时反馈沟通内容，做好沟通记录存档。（2分）",
     "answerKey": "",
     "answerText": "（1）制定正式项目沟通计划，明确沟通方式、时间、责任人；（2分）\n（2）建立书面报告 + 定期会议的双向沟通机制；（2分）\n（3）统一信息传递渠道，避免多渠道信息混乱；（2分）\n（4）及时反馈沟通内容，做好沟通记录存档。（2分）",
-    "knowledge": "沟通管理"
+    "knowledge": "沟通管理",
+    "source": "学习通原题库",
+    "sourceNo": 18
   },
   {
     "id": 19,
@@ -206,7 +242,9 @@ window.QUESTION_BANK = [
     "answer": "主要原因:① 成本估算与预算存在缺陷:未考虑原材料价格波动、人员短缺等风险，估算过于乐观，预算未预留合理应急储备金;② 资源管理不到位:施工人员储备不足，原材料采购未提前锁定价格，受市场波动影响采购成本增加;③ 风险管控不足:规划阶段未识别相关风险，未制定应对策略，风险发生后被动应对;④ 进度与成本协同控制不足:调整措施未结合成本因素，且未针对关键路径活动重点调整，进度滞后问题无法有效解决。(2)基于挣值管理的控制措施:① 计算核心挣值指标:定期统计计划价值(PV)、挣值(EV)、实际成本(AC)，计算进度绩效指数(SPI=EV/PV)和成本绩效指数(CPI=EV/AC)，明确进度和成本偏差程度;② 分析偏差原因:结合SPI和CPI区分可控与不可控偏差，重点关注关键路径上的偏差根源;③ 制定针对性调整措施:进度上针对关键路径滞后活动补充资源、优化流程、压缩非关键活动自由时差;成本上与供应商锁定价格、优化采购方案、严控不必要支出、合理使用应急储备金;④ 持续监控与调整:每周更新挣值指标，跟踪偏差变化，及时调整控制措施，确保SPI和CPI逐步趋近于1，实现进度与成本协同控制。",
     "answerKey": "",
     "answerText": "主要原因:① 成本估算与预算存在缺陷:未考虑原材料价格波动、人员短缺等风险，估算过于乐观，预算未预留合理应急储备金;② 资源管理不到位:施工人员储备不足，原材料采购未提前锁定价格，受市场波动影响采购成本增加;③ 风险管控不足:规划阶段未识别相关风险，未制定应对策略，风险发生后被动应对;④ 进度与成本协同控制不足:调整措施未结合成本因素，且未针对关键路径活动重点调整，进度滞后问题无法有效解决。(2)基于挣值管理的控制措施:① 计算核心挣值指标:定期统计计划价值(PV)、挣值(EV)、实际成本(AC)，计算进度绩效指数(SPI=EV/PV)和成本绩效指数(CPI=EV/AC)，明确进度和成本偏差程度;② 分析偏差原因:结合SPI和CPI区分可控与不可控偏差，重点关注关键路径上的偏差根源;③ 制定针对性调整措施:进度上针对关键路径滞后活动补充资源、优化流程、压缩非关键活动自由时差;成本上与供应商锁定价格、优化采购方案、严控不必要支出、合理使用应急储备金;④ 持续监控与调整:每周更新挣值指标，跟踪偏差变化，及时调整控制措施，确保SPI和CPI逐步趋近于1，实现进度与成本协同控制。",
-    "knowledge": "项目成本管理"
+    "knowledge": "项目成本管理",
+    "source": "学习通原题库",
+    "sourceNo": 19
   },
   {
     "id": 20,
@@ -217,7 +255,9 @@ window.QUESTION_BANK = [
     "answer": "问题：\n未做好项目范围定义与范围控制，随意变更项目工作内容，缺乏正式变更审批流程。（2分）\n措施：\n（1）前期编制详细项目范围说明书；（1.5分）\n（2）建立规范的范围变更审批流程；（1.5分）\n（3）严格界定项目工作边界，杜绝口头变更；（1.5分）\n（4）加强范围实时监控，及时纠正范围蔓延问题。（1.5分）",
     "answerKey": "",
     "answerText": "问题：\n未做好项目范围定义与范围控制，随意变更项目工作内容，缺乏正式变更审批流程。（2分）\n措施：\n（1）前期编制详细项目范围说明书；（1.5分）\n（2）建立规范的范围变更审批流程；（1.5分）\n（3）严格界定项目工作边界，杜绝口头变更；（1.5分）\n（4）加强范围实时监控，及时纠正范围蔓延问题。（1.5分）",
-    "knowledge": "项目范围管理"
+    "knowledge": "项目范围管理",
+    "source": "学习通原题库",
+    "sourceNo": 20
   },
   {
     "id": 21,
@@ -245,7 +285,9 @@ window.QUESTION_BANK = [
     "answer": "A:项目验收",
     "answerKey": "A",
     "answerText": "项目验收",
-    "knowledge": "项目采购管理流程"
+    "knowledge": "项目采购管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 21
   },
   {
     "id": 22,
@@ -273,7 +315,9 @@ window.QUESTION_BANK = [
     "answer": "A:日常业务决策",
     "answerKey": "A",
     "answerText": "日常业务决策",
-    "knowledge": "项目决策分类"
+    "knowledge": "项目决策分类",
+    "source": "学习通原题库",
+    "sourceNo": 22
   },
   {
     "id": 23,
@@ -301,7 +345,9 @@ window.QUESTION_BANK = [
     "answer": "A:协作氛围",
     "answerKey": "A",
     "answerText": "协作氛围",
-    "knowledge": "项目约束条件"
+    "knowledge": "项目约束条件",
+    "source": "学习通原题库",
+    "sourceNo": 23
   },
   {
     "id": 24,
@@ -329,7 +375,9 @@ window.QUESTION_BANK = [
     "answer": "A:信息传递清晰",
     "answerKey": "A",
     "answerText": "信息传递清晰",
-    "knowledge": "项目沟通障碍"
+    "knowledge": "项目沟通障碍",
+    "source": "学习通原题库",
+    "sourceNo": 24
   },
   {
     "id": 25,
@@ -357,7 +405,9 @@ window.QUESTION_BANK = [
     "answer": "A:设备折旧费",
     "answerKey": "A",
     "answerText": "设备折旧费",
-    "knowledge": "项目成本分类"
+    "knowledge": "项目成本分类",
+    "source": "学习通原题库",
+    "sourceNo": 25
   },
   {
     "id": 26,
@@ -385,7 +435,9 @@ window.QUESTION_BANK = [
     "answer": "A:战略决策",
     "answerKey": "A",
     "answerText": "战略决策",
-    "knowledge": "项目决策分类"
+    "knowledge": "项目决策分类",
+    "source": "学习通原题库",
+    "sourceNo": 26
   },
   {
     "id": 27,
@@ -413,7 +465,9 @@ window.QUESTION_BANK = [
     "answer": "A:书面报告",
     "answerKey": "A",
     "answerText": "书面报告",
-    "knowledge": "项目沟通方式"
+    "knowledge": "项目沟通方式",
+    "source": "学习通原题库",
+    "sourceNo": 27
   },
   {
     "id": 28,
@@ -441,7 +495,9 @@ window.QUESTION_BANK = [
     "answer": "A:原材料采购费",
     "answerKey": "A",
     "answerText": "原材料采购费",
-    "knowledge": "项目成本分类"
+    "knowledge": "项目成本分类",
+    "source": "学习通原题库",
+    "sourceNo": 28
   },
   {
     "id": 29,
@@ -469,7 +525,9 @@ window.QUESTION_BANK = [
     "answer": "D:设备折旧费",
     "answerKey": "D",
     "answerText": "设备折旧费",
-    "knowledge": "项目成本分类"
+    "knowledge": "项目成本分类",
+    "source": "学习通原题库",
+    "sourceNo": 29
   },
   {
     "id": 30,
@@ -497,7 +555,9 @@ window.QUESTION_BANK = [
     "answer": "C:工期",
     "answerKey": "C",
     "answerText": "工期",
-    "knowledge": "项目约束条件"
+    "knowledge": "项目约束条件",
+    "source": "学习通原题库",
+    "sourceNo": 30
   },
   {
     "id": 31,
@@ -525,7 +585,9 @@ window.QUESTION_BANK = [
     "answer": "B:战略决策",
     "answerKey": "B",
     "answerText": "战略决策",
-    "knowledge": "项目决策分类"
+    "knowledge": "项目决策分类",
+    "source": "学习通原题库",
+    "sourceNo": 31
   },
   {
     "id": 32,
@@ -553,7 +615,9 @@ window.QUESTION_BANK = [
     "answer": "B:一次性",
     "answerKey": "B",
     "answerText": "一次性",
-    "knowledge": "项目基础概念"
+    "knowledge": "项目基础概念",
+    "source": "学习通原题库",
+    "sourceNo": 32
   },
   {
     "id": 33,
@@ -581,7 +645,9 @@ window.QUESTION_BANK = [
     "answer": "B:启动阶段",
     "answerKey": "B",
     "answerText": "启动阶段",
-    "knowledge": "项目生命周期"
+    "knowledge": "项目生命周期",
+    "source": "学习通原题库",
+    "sourceNo": 33
   },
   {
     "id": 34,
@@ -609,7 +675,9 @@ window.QUESTION_BANK = [
     "answer": "D:正式与非正式沟通",
     "answerKey": "D",
     "answerText": "正式与非正式沟通",
-    "knowledge": "项目沟通分类"
+    "knowledge": "项目沟通分类",
+    "source": "学习通原题库",
+    "sourceNo": 34
   },
   {
     "id": 35,
@@ -637,7 +705,9 @@ window.QUESTION_BANK = [
     "answer": "B:建筑军工领域",
     "answerKey": "B",
     "answerText": "建筑军工领域",
-    "knowledge": "项目管理发展历史"
+    "knowledge": "项目管理发展历史",
+    "source": "学习通原题库",
+    "sourceNo": 35
   },
   {
     "id": 36,
@@ -665,7 +735,9 @@ window.QUESTION_BANK = [
     "answer": "D:全程预防",
     "answerKey": "D",
     "answerText": "全程预防",
-    "knowledge": "项目质量管理"
+    "knowledge": "项目质量管理",
+    "source": "学习通原题库",
+    "sourceNo": 36
   },
   {
     "id": 37,
@@ -693,7 +765,9 @@ window.QUESTION_BANK = [
     "answer": "A:项目范围说明书",
     "answerKey": "A",
     "answerText": "项目范围说明书",
-    "knowledge": "范围管理输出物"
+    "knowledge": "范围管理输出物",
+    "source": "学习通原题库",
+    "sourceNo": 37
   },
   {
     "id": 38,
@@ -721,7 +795,9 @@ window.QUESTION_BANK = [
     "answer": "D:风险识别",
     "answerKey": "D",
     "answerText": "风险识别",
-    "knowledge": "风险管理流程"
+    "knowledge": "风险管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 38
   },
   {
     "id": 39,
@@ -749,7 +825,9 @@ window.QUESTION_BANK = [
     "answer": "C:重复性",
     "answerKey": "C",
     "answerText": "重复性",
-    "knowledge": "项目基础概念"
+    "knowledge": "项目基础概念",
+    "source": "学习通原题库",
+    "sourceNo": 39
   },
   {
     "id": 40,
@@ -777,7 +855,9 @@ window.QUESTION_BANK = [
     "answer": "B:建筑军工领域",
     "answerKey": "B",
     "answerText": "建筑军工领域",
-    "knowledge": "项目管理发展历史"
+    "knowledge": "项目管理发展历史",
+    "source": "学习通原题库",
+    "sourceNo": 40
   },
   {
     "id": 41,
@@ -805,7 +885,9 @@ window.QUESTION_BANK = [
     "answer": "B:第二阶段",
     "answerKey": "B",
     "answerText": "第二阶段",
-    "knowledge": "项目生命周期"
+    "knowledge": "项目生命周期",
+    "source": "学习通原题库",
+    "sourceNo": 41
   },
   {
     "id": 42,
@@ -833,7 +915,9 @@ window.QUESTION_BANK = [
     "answer": "B:预防为主",
     "answerKey": "B",
     "answerText": "预防为主",
-    "knowledge": "项目质量管理原则"
+    "knowledge": "项目质量管理原则",
+    "source": "学习通原题库",
+    "sourceNo": 42
   },
   {
     "id": 43,
@@ -861,7 +945,9 @@ window.QUESTION_BANK = [
     "answer": "B:转移",
     "answerKey": "B",
     "answerText": "转移",
-    "knowledge": "风险应对策略"
+    "knowledge": "风险应对策略",
+    "source": "学习通原题库",
+    "sourceNo": 43
   },
   {
     "id": 44,
@@ -889,7 +975,9 @@ window.QUESTION_BANK = [
     "answer": "D:互联网行业",
     "answerKey": "D",
     "answerText": "互联网行业",
-    "knowledge": "项目管理发展"
+    "knowledge": "项目管理发展",
+    "source": "学习通原题库",
+    "sourceNo": 44
   },
   {
     "id": 45,
@@ -917,7 +1005,9 @@ window.QUESTION_BANK = [
     "answer": "B:建筑军工领域",
     "answerKey": "B",
     "answerText": "建筑军工领域",
-    "knowledge": "项目管理发展历史"
+    "knowledge": "项目管理发展历史",
+    "source": "学习通原题库",
+    "sourceNo": 45
   },
   {
     "id": 46,
@@ -945,7 +1035,9 @@ window.QUESTION_BANK = [
     "answer": "C:经验化粗放管理",
     "answerKey": "C",
     "answerText": "经验化粗放管理",
-    "knowledge": "现代项目管理特点"
+    "knowledge": "现代项目管理特点",
+    "source": "学习通原题库",
+    "sourceNo": 46
   },
   {
     "id": 47,
@@ -973,7 +1065,9 @@ window.QUESTION_BANK = [
     "answer": "A:员工工龄",
     "answerKey": "A",
     "answerText": "员工工龄",
-    "knowledge": "项目三重约束"
+    "knowledge": "项目三重约束",
+    "source": "学习通原题库",
+    "sourceNo": 47
   },
   {
     "id": 48,
@@ -1001,7 +1095,9 @@ window.QUESTION_BANK = [
     "answer": "B:精细化、数字化",
     "answerKey": "B",
     "answerText": "精细化、数字化",
-    "knowledge": "现代项目管理发展趋势"
+    "knowledge": "现代项目管理发展趋势",
+    "source": "学习通原题库",
+    "sourceNo": 48
   },
   {
     "id": 49,
@@ -1029,7 +1125,9 @@ window.QUESTION_BANK = [
     "answer": "A:客观性",
     "answerKey": "A",
     "answerText": "客观性",
-    "knowledge": "项目风险的特征"
+    "knowledge": "项目风险的特征",
+    "source": "学习通原题库",
+    "sourceNo": 49
   },
   {
     "id": 50,
@@ -1057,7 +1155,9 @@ window.QUESTION_BANK = [
     "answer": "D:员工工龄",
     "answerKey": "D",
     "answerText": "员工工龄",
-    "knowledge": "项目三重约束"
+    "knowledge": "项目三重约束",
+    "source": "学习通原题库",
+    "sourceNo": 50
   },
   {
     "id": 51,
@@ -1085,7 +1185,9 @@ window.QUESTION_BANK = [
     "answer": "C:甘特图",
     "answerKey": "C",
     "answerText": "甘特图",
-    "knowledge": "进度管理工具"
+    "knowledge": "进度管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 51
   },
   {
     "id": 52,
@@ -1113,7 +1215,9 @@ window.QUESTION_BANK = [
     "answer": "C:设备折旧费",
     "answerKey": "C",
     "answerText": "设备折旧费",
-    "knowledge": "项目成本分类"
+    "knowledge": "项目成本分类",
+    "source": "学习通原题库",
+    "sourceNo": 52
   },
   {
     "id": 53,
@@ -1141,7 +1245,9 @@ window.QUESTION_BANK = [
     "answer": "D:项目验收和总结",
     "answerKey": "D",
     "answerText": "项目验收和总结",
-    "knowledge": "项目收尾核心工作"
+    "knowledge": "项目收尾核心工作",
+    "source": "学习通原题库",
+    "sourceNo": 53
   },
   {
     "id": 54,
@@ -1169,7 +1275,9 @@ window.QUESTION_BANK = [
     "answer": "A:确定项目的边界和可交付成果",
     "answerKey": "A",
     "answerText": "确定项目的边界和可交付成果",
-    "knowledge": "项目范围管理的定义"
+    "knowledge": "项目范围管理的定义",
+    "source": "学习通原题库",
+    "sourceNo": 54
   },
   {
     "id": 55,
@@ -1197,7 +1305,9 @@ window.QUESTION_BANK = [
     "answer": "C:项目范围说明书",
     "answerKey": "C",
     "answerText": "项目范围说明书",
-    "knowledge": "范围管理输出物"
+    "knowledge": "范围管理输出物",
+    "source": "学习通原题库",
+    "sourceNo": 55
   },
   {
     "id": 56,
@@ -1225,7 +1335,9 @@ window.QUESTION_BANK = [
     "answer": "A:精细化、数字化",
     "answerKey": "A",
     "answerText": "精细化、数字化",
-    "knowledge": "现代项目管理发展趋势"
+    "knowledge": "现代项目管理发展趋势",
+    "source": "学习通原题库",
+    "sourceNo": 56
   },
   {
     "id": 57,
@@ -1253,7 +1365,9 @@ window.QUESTION_BANK = [
     "answer": "B:监控过程",
     "answerKey": "B",
     "answerText": "监控过程",
-    "knowledge": "项目管理过程组"
+    "knowledge": "项目管理过程组",
+    "source": "学习通原题库",
+    "sourceNo": 57
   },
   {
     "id": 58,
@@ -1281,7 +1395,9 @@ window.QUESTION_BANK = [
     "answer": "C:时间",
     "answerKey": "C",
     "answerText": "时间",
-    "knowledge": "项目时间管理"
+    "knowledge": "项目时间管理",
+    "source": "学习通原题库",
+    "sourceNo": 58
   },
   {
     "id": 59,
@@ -1309,7 +1425,9 @@ window.QUESTION_BANK = [
     "answer": "B:范围",
     "answerKey": "B",
     "answerText": "范围",
-    "knowledge": "项目范围管理"
+    "knowledge": "项目范围管理",
+    "source": "学习通原题库",
+    "sourceNo": 59
   },
   {
     "id": 60,
@@ -1337,7 +1455,9 @@ window.QUESTION_BANK = [
     "answer": "A:项目会议纪要",
     "answerKey": "A",
     "answerText": "项目会议纪要",
-    "knowledge": "正式与非正式沟通的区别"
+    "knowledge": "正式与非正式沟通的区别",
+    "source": "学习通原题库",
+    "sourceNo": 60
   },
   {
     "id": 61,
@@ -1365,7 +1485,9 @@ window.QUESTION_BANK = [
     "answer": "B:甘特图",
     "answerKey": "B",
     "answerText": "甘特图",
-    "knowledge": "进度管理工具"
+    "knowledge": "进度管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 61
   },
   {
     "id": 62,
@@ -1393,7 +1515,9 @@ window.QUESTION_BANK = [
     "answer": "D:工期",
     "answerKey": "D",
     "answerText": "工期",
-    "knowledge": "项目约束条件"
+    "knowledge": "项目约束条件",
+    "source": "学习通原题库",
+    "sourceNo": 62
   },
   {
     "id": 63,
@@ -1421,7 +1545,9 @@ window.QUESTION_BANK = [
     "answer": "B:甘特图",
     "answerKey": "B",
     "answerText": "甘特图",
-    "knowledge": "进度管理工具"
+    "knowledge": "进度管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 63
   },
   {
     "id": 64,
@@ -1449,7 +1575,9 @@ window.QUESTION_BANK = [
     "answer": "D:风险监控",
     "answerKey": "D",
     "answerText": "风险监控",
-    "knowledge": "风险管理流程"
+    "knowledge": "风险管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 64
   },
   {
     "id": 65,
@@ -1477,7 +1605,9 @@ window.QUESTION_BANK = [
     "answer": "B:确定项目做什么、不做什么",
     "answerKey": "B",
     "answerText": "确定项目做什么、不做什么",
-    "knowledge": "项目范围管理核心"
+    "knowledge": "项目范围管理核心",
+    "source": "学习通原题库",
+    "sourceNo": 65
   },
   {
     "id": 66,
@@ -1505,7 +1635,9 @@ window.QUESTION_BANK = [
     "answer": "C:精细化、数字化",
     "answerKey": "C",
     "answerText": "精细化、数字化",
-    "knowledge": "现代项目管理发展趋势"
+    "knowledge": "现代项目管理发展趋势",
+    "source": "学习通原题库",
+    "sourceNo": 66
   },
   {
     "id": 67,
@@ -1533,7 +1665,9 @@ window.QUESTION_BANK = [
     "answer": "A:重复性",
     "answerKey": "A",
     "answerText": "重复性",
-    "knowledge": "项目基础概念"
+    "knowledge": "项目基础概念",
+    "source": "学习通原题库",
+    "sourceNo": 67
   },
   {
     "id": 68,
@@ -1561,7 +1695,9 @@ window.QUESTION_BANK = [
     "answer": "C:甘特图",
     "answerKey": "C",
     "answerText": "甘特图",
-    "knowledge": "进度管理工具"
+    "knowledge": "进度管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 68
   },
   {
     "id": 69,
@@ -1589,7 +1725,9 @@ window.QUESTION_BANK = [
     "answer": "D:增加项目预算",
     "answerKey": "D",
     "answerText": "增加项目预算",
-    "knowledge": "成本超支控制措施"
+    "knowledge": "成本超支控制措施",
+    "source": "学习通原题库",
+    "sourceNo": 69
   },
   {
     "id": 70,
@@ -1617,7 +1755,9 @@ window.QUESTION_BANK = [
     "answer": "A:数字化、精细化",
     "answerKey": "A",
     "answerText": "数字化、精细化",
-    "knowledge": "项目管理发展趋势"
+    "knowledge": "项目管理发展趋势",
+    "source": "学习通原题库",
+    "sourceNo": 70
   },
   {
     "id": 71,
@@ -1645,7 +1785,9 @@ window.QUESTION_BANK = [
     "answer": "C:满足员工需求",
     "answerKey": "C",
     "answerText": "满足员工需求",
-    "knowledge": "人力资源激励核心"
+    "knowledge": "人力资源激励核心",
+    "source": "学习通原题库",
+    "sourceNo": 71
   },
   {
     "id": 72,
@@ -1673,7 +1815,9 @@ window.QUESTION_BANK = [
     "answer": "D:减少项目范围",
     "answerKey": "D",
     "answerText": "减少项目范围",
-    "knowledge": "进度滞后调整措施"
+    "knowledge": "进度滞后调整措施",
+    "source": "学习通原题库",
+    "sourceNo": 72
   },
   {
     "id": 73,
@@ -1701,7 +1845,9 @@ window.QUESTION_BANK = [
     "answer": "C:预防为主",
     "answerKey": "C",
     "answerText": "预防为主",
-    "knowledge": "项目质量管理原则"
+    "knowledge": "项目质量管理原则",
+    "source": "学习通原题库",
+    "sourceNo": 73
   },
   {
     "id": 74,
@@ -1729,7 +1875,9 @@ window.QUESTION_BANK = [
     "answer": "A:风险识别",
     "answerKey": "A",
     "answerText": "风险识别",
-    "knowledge": "风险管理流程"
+    "knowledge": "风险管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 74
   },
   {
     "id": 75,
@@ -1757,7 +1905,9 @@ window.QUESTION_BANK = [
     "answer": "C:鱼骨图法",
     "answerKey": "C",
     "answerText": "鱼骨图法",
-    "knowledge": "质量问题原因分析方法"
+    "knowledge": "质量问题原因分析方法",
+    "source": "学习通原题库",
+    "sourceNo": 75
   },
   {
     "id": 76,
@@ -1785,7 +1935,9 @@ window.QUESTION_BANK = [
     "answer": "B:员工工龄",
     "answerKey": "B",
     "answerText": "员工工龄",
-    "knowledge": "项目三重约束"
+    "knowledge": "项目三重约束",
+    "source": "学习通原题库",
+    "sourceNo": 76
   },
   {
     "id": 77,
@@ -1813,7 +1965,9 @@ window.QUESTION_BANK = [
     "answer": "B:书面报告",
     "answerKey": "B",
     "answerText": "书面报告",
-    "knowledge": "项目沟通方式"
+    "knowledge": "项目沟通方式",
+    "source": "学习通原题库",
+    "sourceNo": 77
   },
   {
     "id": 78,
@@ -1841,7 +1995,9 @@ window.QUESTION_BANK = [
     "answer": "D:工程建设",
     "answerKey": "D",
     "answerText": "工程建设",
-    "knowledge": "项目管理发展"
+    "knowledge": "项目管理发展",
+    "source": "学习通原题库",
+    "sourceNo": 78
   },
   {
     "id": 79,
@@ -1869,7 +2025,9 @@ window.QUESTION_BANK = [
     "answer": "D:书面报告",
     "answerKey": "D",
     "answerText": "书面报告",
-    "knowledge": "项目沟通方式"
+    "knowledge": "项目沟通方式",
+    "source": "学习通原题库",
+    "sourceNo": 79
   },
   {
     "id": 80,
@@ -1897,7 +2055,9 @@ window.QUESTION_BANK = [
     "answer": "B:工期",
     "answerKey": "B",
     "answerText": "工期",
-    "knowledge": "项目约束条件"
+    "knowledge": "项目约束条件",
+    "source": "学习通原题库",
+    "sourceNo": 80
   },
   {
     "id": 81,
@@ -1925,7 +2085,9 @@ window.QUESTION_BANK = [
     "answer": "D:预算内完成项目",
     "answerKey": "D",
     "answerText": "预算内完成项目",
-    "knowledge": "项目成本管理"
+    "knowledge": "项目成本管理",
+    "source": "学习通原题库",
+    "sourceNo": 81
   },
   {
     "id": 82,
@@ -1953,7 +2115,9 @@ window.QUESTION_BANK = [
     "answer": "A:启动阶段",
     "answerKey": "A",
     "answerText": "启动阶段",
-    "knowledge": "项目生命周期"
+    "knowledge": "项目生命周期",
+    "source": "学习通原题库",
+    "sourceNo": 82
   },
   {
     "id": 83,
@@ -1981,7 +2145,9 @@ window.QUESTION_BANK = [
     "answer": "D:项目范围说明书",
     "answerKey": "D",
     "answerText": "项目范围说明书",
-    "knowledge": "范围管理输出物"
+    "knowledge": "范围管理输出物",
+    "source": "学习通原题库",
+    "sourceNo": 83
   },
   {
     "id": 84,
@@ -2009,7 +2175,9 @@ window.QUESTION_BANK = [
     "answer": "B:人事档案管理",
     "answerKey": "B",
     "answerText": "人事档案管理",
-    "knowledge": "项目管理十大知识领域"
+    "knowledge": "项目管理十大知识领域",
+    "source": "学习通原题库",
+    "sourceNo": 84
   },
   {
     "id": 85,
@@ -2037,7 +2205,9 @@ window.QUESTION_BANK = [
     "answer": "C:在约束条件下实现项目目标",
     "answerKey": "C",
     "answerText": "在约束条件下实现项目目标",
-    "knowledge": "项目管理内涵"
+    "knowledge": "项目管理内涵",
+    "source": "学习通原题库",
+    "sourceNo": 85
   },
   {
     "id": 86,
@@ -2065,7 +2235,9 @@ window.QUESTION_BANK = [
     "answer": "C:风险识别",
     "answerKey": "C",
     "answerText": "风险识别",
-    "knowledge": "风险管理流程"
+    "knowledge": "风险管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 86
   },
   {
     "id": 87,
@@ -2093,7 +2265,9 @@ window.QUESTION_BANK = [
     "answer": "A:分阶段管控",
     "answerKey": "A",
     "answerText": "分阶段管控",
-    "knowledge": "项目生命周期管理"
+    "knowledge": "项目生命周期管理",
+    "source": "学习通原题库",
+    "sourceNo": 87
   },
   {
     "id": 88,
@@ -2121,7 +2295,9 @@ window.QUESTION_BANK = [
     "answer": "D:以上都是",
     "answerKey": "D",
     "answerText": "以上都是",
-    "knowledge": "项目管理工具"
+    "knowledge": "项目管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 88
   },
   {
     "id": 89,
@@ -2149,7 +2325,9 @@ window.QUESTION_BANK = [
     "answer": "D:项目范围说明书",
     "answerKey": "D",
     "answerText": "项目范围说明书",
-    "knowledge": "范围管理输出物"
+    "knowledge": "范围管理输出物",
+    "source": "学习通原题库",
+    "sourceNo": 89
   },
   {
     "id": 90,
@@ -2177,7 +2355,9 @@ window.QUESTION_BANK = [
     "answer": "A:确定项目做什么、不做什么",
     "answerKey": "A",
     "answerText": "确定项目做什么、不做什么",
-    "knowledge": "项目范围管理核心"
+    "knowledge": "项目范围管理核心",
+    "source": "学习通原题库",
+    "sourceNo": 90
   },
   {
     "id": 91,
@@ -2205,7 +2385,9 @@ window.QUESTION_BANK = [
     "answer": "D:确定项目做什么、不做什么",
     "answerKey": "D",
     "answerText": "确定项目做什么、不做什么",
-    "knowledge": "项目范围管理核心"
+    "knowledge": "项目范围管理核心",
+    "source": "学习通原题库",
+    "sourceNo": 91
   },
   {
     "id": 92,
@@ -2233,7 +2415,9 @@ window.QUESTION_BANK = [
     "answer": "B:预防为主",
     "answerKey": "B",
     "answerText": "预防为主",
-    "knowledge": "项目质量管理原则"
+    "knowledge": "项目质量管理原则",
+    "source": "学习通原题库",
+    "sourceNo": 92
   },
   {
     "id": 93,
@@ -2261,7 +2445,9 @@ window.QUESTION_BANK = [
     "answer": "C:项目管理是对项目进行计划、组织、协调和控制的过程，以实现项目目标",
     "answerKey": "C",
     "answerText": "项目管理是对项目进行计划、组织、协调和控制的过程，以实现项目目标",
-    "knowledge": "项目管理的定义"
+    "knowledge": "项目管理的定义",
+    "source": "学习通原题库",
+    "sourceNo": 93
   },
   {
     "id": 94,
@@ -2289,7 +2475,9 @@ window.QUESTION_BANK = [
     "answer": "D:找出所有可能的风险",
     "answerKey": "D",
     "answerText": "找出所有可能的风险",
-    "knowledge": "风险识别核心"
+    "knowledge": "风险识别核心",
+    "source": "学习通原题库",
+    "sourceNo": 94
   },
   {
     "id": 95,
@@ -2317,7 +2505,9 @@ window.QUESTION_BANK = [
     "answer": "A:人事档案管理",
     "answerKey": "A",
     "answerText": "人事档案管理",
-    "knowledge": "项目管理十大知识领域"
+    "knowledge": "项目管理十大知识领域",
+    "source": "学习通原题库",
+    "sourceNo": 95
   },
   {
     "id": 96,
@@ -2345,7 +2535,9 @@ window.QUESTION_BANK = [
     "answer": "A:人事档案管理",
     "answerKey": "A",
     "answerText": "人事档案管理",
-    "knowledge": "项目管理十大知识领域"
+    "knowledge": "项目管理十大知识领域",
+    "source": "学习通原题库",
+    "sourceNo": 96
   },
   {
     "id": 97,
@@ -2373,7 +2565,9 @@ window.QUESTION_BANK = [
     "answer": "D:交付验收、归档结算",
     "answerKey": "D",
     "answerText": "交付验收、归档结算",
-    "knowledge": "项目生命周期"
+    "knowledge": "项目生命周期",
+    "source": "学习通原题库",
+    "sourceNo": 97
   },
   {
     "id": 98,
@@ -2401,7 +2595,9 @@ window.QUESTION_BANK = [
     "answer": "A:项目全过程",
     "answerKey": "A",
     "answerText": "项目全过程",
-    "knowledge": "项目质量管理"
+    "knowledge": "项目质量管理",
+    "source": "学习通原题库",
+    "sourceNo": 98
   },
   {
     "id": 99,
@@ -2429,7 +2625,9 @@ window.QUESTION_BANK = [
     "answer": "D:战略决策",
     "answerKey": "D",
     "answerText": "战略决策",
-    "knowledge": "项目决策分类"
+    "knowledge": "项目决策分类",
+    "source": "学习通原题库",
+    "sourceNo": 99
   },
   {
     "id": 100,
@@ -2457,7 +2655,9 @@ window.QUESTION_BANK = [
     "answer": "B:重复性",
     "answerKey": "B",
     "answerText": "重复性",
-    "knowledge": "项目基础概念"
+    "knowledge": "项目基础概念",
+    "source": "学习通原题库",
+    "sourceNo": 100
   },
   {
     "id": 101,
@@ -2485,7 +2685,9 @@ window.QUESTION_BANK = [
     "answer": "A:范围界定",
     "answerKey": "A",
     "answerText": "范围界定",
-    "knowledge": "项目范围管理"
+    "knowledge": "项目范围管理",
+    "source": "学习通原题库",
+    "sourceNo": 101
   },
   {
     "id": 102,
@@ -2513,7 +2715,9 @@ window.QUESTION_BANK = [
     "answer": "C:书面报告",
     "answerKey": "C",
     "answerText": "书面报告",
-    "knowledge": "项目沟通方式"
+    "knowledge": "项目沟通方式",
+    "source": "学习通原题库",
+    "sourceNo": 102
   },
   {
     "id": 103,
@@ -2541,7 +2745,9 @@ window.QUESTION_BANK = [
     "answer": "A:以上都是",
     "answerKey": "A",
     "answerText": "以上都是",
-    "knowledge": "项目管理核心原则"
+    "knowledge": "项目管理核心原则",
+    "source": "学习通原题库",
+    "sourceNo": 103
   },
   {
     "id": 104,
@@ -2569,7 +2775,9 @@ window.QUESTION_BANK = [
     "answer": "D:人员档案管理",
     "answerKey": "D",
     "answerText": "人员档案管理",
-    "knowledge": "项目管理知识体系"
+    "knowledge": "项目管理知识体系",
+    "source": "学习通原题库",
+    "sourceNo": 104
   },
   {
     "id": 105,
@@ -2597,7 +2805,9 @@ window.QUESTION_BANK = [
     "answer": "B:启动阶段",
     "answerKey": "B",
     "answerText": "启动阶段",
-    "knowledge": "项目生命周期"
+    "knowledge": "项目生命周期",
+    "source": "学习通原题库",
+    "sourceNo": 105
   },
   {
     "id": 106,
@@ -2625,7 +2835,9 @@ window.QUESTION_BANK = [
     "answer": "D:团队氛围",
     "answerKey": "D",
     "answerText": "团队氛围",
-    "knowledge": "项目三重约束"
+    "knowledge": "项目三重约束",
+    "source": "学习通原题库",
+    "sourceNo": 106
   },
   {
     "id": 107,
@@ -2653,7 +2865,9 @@ window.QUESTION_BANK = [
     "answer": "D:科学合理",
     "answerKey": "D",
     "answerText": "科学合理",
-    "knowledge": "项目决策原则"
+    "knowledge": "项目决策原则",
+    "source": "学习通原题库",
+    "sourceNo": 107
   },
   {
     "id": 108,
@@ -2681,7 +2895,9 @@ window.QUESTION_BANK = [
     "answer": "D:独特性",
     "answerKey": "D",
     "answerText": "独特性",
-    "knowledge": "项目基础特性"
+    "knowledge": "项目基础特性",
+    "source": "学习通原题库",
+    "sourceNo": 108
   },
   {
     "id": 109,
@@ -2709,7 +2925,9 @@ window.QUESTION_BANK = [
     "answer": "A:风险矩阵",
     "answerKey": "A",
     "answerText": "风险矩阵",
-    "knowledge": "进度管理工具"
+    "knowledge": "进度管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 109
   },
   {
     "id": 110,
@@ -2720,7 +2938,9 @@ window.QUESTION_BANK = [
     "answer": "风险评估",
     "answerKey": "",
     "answerText": "风险评估",
-    "knowledge": "风险管理流程"
+    "knowledge": "风险管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 110
   },
   {
     "id": 111,
@@ -2731,7 +2951,9 @@ window.QUESTION_BANK = [
     "answer": "完整顺畅",
     "answerKey": "",
     "answerText": "完整顺畅",
-    "knowledge": "沟通管理核心项目基本特性项目生命周期范围蔓延管控全周期风险管理项目沟通作用"
+    "knowledge": "沟通管理核心项目基本特性项目生命周期范围蔓延管控全周期风险管理项目沟通作用",
+    "source": "学习通原题库",
+    "sourceNo": 111
   },
   {
     "id": 112,
@@ -2742,7 +2964,9 @@ window.QUESTION_BANK = [
     "answer": "一次性",
     "answerKey": "",
     "answerText": "一次性",
-    "knowledge": "项目核心特征"
+    "knowledge": "项目核心特征",
+    "source": "学习通原题库",
+    "sourceNo": 112
   },
   {
     "id": 113,
@@ -2753,7 +2977,9 @@ window.QUESTION_BANK = [
     "answer": "风险应对",
     "answerKey": "",
     "answerText": "风险应对",
-    "knowledge": "风险管理流程"
+    "knowledge": "风险管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 113
   },
   {
     "id": 114,
@@ -2764,7 +2990,9 @@ window.QUESTION_BANK = [
     "answer": "工作",
     "answerKey": "",
     "answerText": "工作",
-    "knowledge": "项目范围定义"
+    "knowledge": "项目范围定义",
+    "source": "学习通原题库",
+    "sourceNo": 114
   },
   {
     "id": 115,
@@ -2775,7 +3003,9 @@ window.QUESTION_BANK = [
     "answer": "工作",
     "answerKey": "",
     "answerText": "工作",
-    "knowledge": "范围管控"
+    "knowledge": "范围管控",
+    "source": "学习通原题库",
+    "sourceNo": 115
   },
   {
     "id": 116,
@@ -2786,7 +3016,9 @@ window.QUESTION_BANK = [
     "answer": "项目工期",
     "answerKey": "",
     "answerText": "项目工期",
-    "knowledge": "时间管理目标"
+    "knowledge": "时间管理目标",
+    "source": "学习通原题库",
+    "sourceNo": 116
   },
   {
     "id": 117,
@@ -2797,7 +3029,9 @@ window.QUESTION_BANK = [
     "answer": "事前预防",
     "answerKey": "",
     "answerText": "事前预防",
-    "knowledge": "质量管理原则"
+    "knowledge": "质量管理原则",
+    "source": "学习通原题库",
+    "sourceNo": 117
   },
   {
     "id": 118,
@@ -2808,7 +3042,9 @@ window.QUESTION_BANK = [
     "answer": "甘特图",
     "answerKey": "",
     "answerText": "甘特图",
-    "knowledge": "进度管理工具"
+    "knowledge": "进度管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 118
   },
   {
     "id": 119,
@@ -2819,7 +3055,9 @@ window.QUESTION_BANK = [
     "answer": "进度",
     "answerKey": "",
     "answerText": "进度",
-    "knowledge": "项目三重约束"
+    "knowledge": "项目三重约束",
+    "source": "学习通原题库",
+    "sourceNo": 119
   },
   {
     "id": 120,
@@ -2830,7 +3068,9 @@ window.QUESTION_BANK = [
     "answer": "甘特图",
     "answerKey": "",
     "answerText": "甘特图",
-    "knowledge": "进度管控工具"
+    "knowledge": "进度管控工具",
+    "source": "学习通原题库",
+    "sourceNo": 120
   },
   {
     "id": 121,
@@ -2841,7 +3081,9 @@ window.QUESTION_BANK = [
     "answer": "进度",
     "answerKey": "",
     "answerText": "进度",
-    "knowledge": "项目三重约束"
+    "knowledge": "项目三重约束",
+    "source": "学习通原题库",
+    "sourceNo": 121
   },
   {
     "id": 122,
@@ -2852,7 +3094,9 @@ window.QUESTION_BANK = [
     "answer": "非正式",
     "answerKey": "",
     "answerText": "非正式",
-    "knowledge": "沟通类型"
+    "knowledge": "沟通类型",
+    "source": "学习通原题库",
+    "sourceNo": 122
   },
   {
     "id": 123,
@@ -2863,7 +3107,9 @@ window.QUESTION_BANK = [
     "answer": "完整顺畅",
     "answerKey": "",
     "answerText": "完整顺畅",
-    "knowledge": "沟通管理核心项目基本特性项目生命周期范围蔓延管控全周期风险管理项目沟通作用"
+    "knowledge": "沟通管理核心项目基本特性项目生命周期范围蔓延管控全周期风险管理项目沟通作用",
+    "source": "学习通原题库",
+    "sourceNo": 123
   },
   {
     "id": 124,
@@ -2874,7 +3120,9 @@ window.QUESTION_BANK = [
     "answer": "甘特图",
     "answerKey": "",
     "answerText": "甘特图",
-    "knowledge": "进度管理工具"
+    "knowledge": "进度管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 124
   },
   {
     "id": 125,
@@ -2885,7 +3133,9 @@ window.QUESTION_BANK = [
     "answer": "成本",
     "answerKey": "",
     "answerText": "成本",
-    "knowledge": "项目三重约束"
+    "knowledge": "项目三重约束",
+    "source": "学习通原题库",
+    "sourceNo": 125
   },
   {
     "id": 126,
@@ -2896,7 +3146,9 @@ window.QUESTION_BANK = [
     "answer": "进度",
     "answerKey": "",
     "answerText": "进度",
-    "knowledge": "项目三重约束"
+    "knowledge": "项目三重约束",
+    "source": "学习通原题库",
+    "sourceNo": 126
   },
   {
     "id": 127,
@@ -2907,7 +3159,9 @@ window.QUESTION_BANK = [
     "answer": "准确",
     "answerKey": "",
     "answerText": "准确",
-    "knowledge": "沟通管理"
+    "knowledge": "沟通管理",
+    "source": "学习通原题库",
+    "sourceNo": 127
   },
   {
     "id": 128,
@@ -2918,7 +3172,9 @@ window.QUESTION_BANK = [
     "answer": "完整顺畅",
     "answerKey": "",
     "answerText": "完整顺畅",
-    "knowledge": "沟通管理核心"
+    "knowledge": "沟通管理核心",
+    "source": "学习通原题库",
+    "sourceNo": 128
   },
   {
     "id": 129,
@@ -2929,7 +3185,9 @@ window.QUESTION_BANK = [
     "answer": "风险评估",
     "answerKey": "",
     "answerText": "风险评估",
-    "knowledge": "风险管理流程"
+    "knowledge": "风险管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 129
   },
   {
     "id": 130,
@@ -2940,7 +3198,9 @@ window.QUESTION_BANK = [
     "answer": "工作",
     "answerKey": "",
     "answerText": "工作",
-    "knowledge": "项目范围定义"
+    "knowledge": "项目范围定义",
+    "source": "学习通原题库",
+    "sourceNo": 130
   },
   {
     "id": 131,
@@ -2951,7 +3211,9 @@ window.QUESTION_BANK = [
     "answer": "工作",
     "answerKey": "",
     "answerText": "工作",
-    "knowledge": "项目范围定义"
+    "knowledge": "项目范围定义",
+    "source": "学习通原题库",
+    "sourceNo": 131
   },
   {
     "id": 132,
@@ -2962,7 +3224,9 @@ window.QUESTION_BANK = [
     "answer": "规范变更",
     "answerKey": "",
     "answerText": "规范变更",
-    "knowledge": "范围变更管理"
+    "knowledge": "范围变更管理",
+    "source": "学习通原题库",
+    "sourceNo": 132
   },
   {
     "id": 133,
@@ -2973,7 +3237,9 @@ window.QUESTION_BANK = [
     "answer": "风险评估",
     "answerKey": "",
     "answerText": "风险评估",
-    "knowledge": "风险管理流程"
+    "knowledge": "风险管理流程",
+    "source": "学习通原题库",
+    "sourceNo": 133
   },
   {
     "id": 134,
@@ -2984,7 +3250,9 @@ window.QUESTION_BANK = [
     "answer": "甘特图",
     "answerKey": "",
     "answerText": "甘特图",
-    "knowledge": "进度管理工具"
+    "knowledge": "进度管理工具",
+    "source": "学习通原题库",
+    "sourceNo": 134
   },
   {
     "id": 135,
@@ -3004,7 +3272,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "正式与非正式沟通的区别"
+    "knowledge": "正式与非正式沟通的区别",
+    "source": "学习通原题库",
+    "sourceNo": 135
   },
   {
     "id": 136,
@@ -3024,7 +3294,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "关键活动"
+    "knowledge": "关键活动",
+    "source": "学习通原题库",
+    "sourceNo": 136
   },
   {
     "id": 137,
@@ -3044,7 +3316,9 @@ window.QUESTION_BANK = [
     "answer": "对",
     "answerKey": "对",
     "answerText": "对",
-    "knowledge": "范围风险"
+    "knowledge": "范围风险",
+    "source": "学习通原题库",
+    "sourceNo": 137
   },
   {
     "id": 138,
@@ -3064,7 +3338,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "项目风险的特征"
+    "knowledge": "项目风险的特征",
+    "source": "学习通原题库",
+    "sourceNo": 138
   },
   {
     "id": 139,
@@ -3084,7 +3360,9 @@ window.QUESTION_BANK = [
     "answer": "对",
     "answerKey": "对",
     "answerText": "对",
-    "knowledge": "项目基础特征"
+    "knowledge": "项目基础特征",
+    "source": "学习通原题库",
+    "sourceNo": 139
   },
   {
     "id": 140,
@@ -3104,7 +3382,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "采购管理的核心"
+    "knowledge": "采购管理的核心",
+    "source": "学习通原题库",
+    "sourceNo": 140
   },
   {
     "id": 141,
@@ -3124,7 +3404,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "风险评估的内容"
+    "knowledge": "风险评估的内容",
+    "source": "学习通原题库",
+    "sourceNo": 141
   },
   {
     "id": 142,
@@ -3144,7 +3426,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "WBS的结构"
+    "knowledge": "WBS的结构",
+    "source": "学习通原题库",
+    "sourceNo": 142
   },
   {
     "id": 143,
@@ -3164,7 +3448,9 @@ window.QUESTION_BANK = [
     "answer": "对",
     "answerKey": "对",
     "answerText": "对",
-    "knowledge": "项目沟通作用"
+    "knowledge": "项目沟通作用",
+    "source": "学习通原题库",
+    "sourceNo": 143
   },
   {
     "id": 144,
@@ -3184,7 +3470,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "风险分类"
+    "knowledge": "风险分类",
+    "source": "学习通原题库",
+    "sourceNo": 144
   },
   {
     "id": 145,
@@ -3204,7 +3492,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "项目沟通管理"
+    "knowledge": "项目沟通管理",
+    "source": "学习通原题库",
+    "sourceNo": 145
   },
   {
     "id": 146,
@@ -3224,7 +3514,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "成本控制"
+    "knowledge": "成本控制",
+    "source": "学习通原题库",
+    "sourceNo": 146
   },
   {
     "id": 147,
@@ -3244,7 +3536,9 @@ window.QUESTION_BANK = [
     "answer": "对",
     "answerKey": "对",
     "answerText": "对",
-    "knowledge": "风险应对"
+    "knowledge": "风险应对",
+    "source": "学习通原题库",
+    "sourceNo": 147
   },
   {
     "id": 148,
@@ -3264,7 +3558,9 @@ window.QUESTION_BANK = [
     "answer": "对",
     "answerKey": "对",
     "answerText": "对",
-    "knowledge": "项目生命周期"
+    "knowledge": "项目生命周期",
+    "source": "学习通原题库",
+    "sourceNo": 148
   },
   {
     "id": 149,
@@ -3284,7 +3580,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "成本估算与预算的区别"
+    "knowledge": "成本估算与预算的区别",
+    "source": "学习通原题库",
+    "sourceNo": 149
   },
   {
     "id": 150,
@@ -3304,7 +3602,9 @@ window.QUESTION_BANK = [
     "answer": "对",
     "answerKey": "对",
     "answerText": "对",
-    "knowledge": "项目基础特性"
+    "knowledge": "项目基础特性",
+    "source": "学习通原题库",
+    "sourceNo": 150
   },
   {
     "id": 151,
@@ -3324,7 +3624,9 @@ window.QUESTION_BANK = [
     "answer": "对",
     "answerKey": "对",
     "answerText": "对",
-    "knowledge": "质量保证与控制的区别"
+    "knowledge": "质量保证与控制的区别",
+    "source": "学习通原题库",
+    "sourceNo": 151
   },
   {
     "id": 152,
@@ -3344,7 +3646,9 @@ window.QUESTION_BANK = [
     "answer": "对",
     "answerKey": "对",
     "answerText": "对",
-    "knowledge": "项目沟通"
+    "knowledge": "项目沟通",
+    "source": "学习通原题库",
+    "sourceNo": 152
   },
   {
     "id": 153,
@@ -3364,7 +3668,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "项目团队建设阶段特点"
+    "knowledge": "项目团队建设阶段特点",
+    "source": "学习通原题库",
+    "sourceNo": 153
   },
   {
     "id": 154,
@@ -3384,7 +3690,9 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "项目生命周期"
+    "knowledge": "项目生命周期",
+    "source": "学习通原题库",
+    "sourceNo": 154
   },
   {
     "id": 155,
@@ -3404,6 +3712,742 @@ window.QUESTION_BANK = [
     "answer": "错",
     "answerKey": "错",
     "answerText": "错",
-    "knowledge": "项目经理的能力要求"
+    "knowledge": "项目经理的能力要求",
+    "source": "学习通原题库",
+    "sourceNo": 155
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "下列属于风险识别方法的是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "德尔菲法"
+      },
+      {
+        "key": "B",
+        "text": "以上都是"
+      },
+      {
+        "key": "C",
+        "text": "头脑风暴法"
+      },
+      {
+        "key": "D",
+        "text": "鱼骨图法"
+      }
+    ],
+    "answer": "B:以上都是",
+    "answerKey": "B",
+    "answerText": "以上都是",
+    "knowledge": "风险识别方法",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选1",
+    "id": 156,
+    "sourceNo": 1
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "项目风险管理的首要步骤是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "风险评估"
+      },
+      {
+        "key": "B",
+        "text": "风险应对"
+      },
+      {
+        "key": "C",
+        "text": "风险识别"
+      },
+      {
+        "key": "D",
+        "text": "风险监控"
+      }
+    ],
+    "answer": "C:风险识别",
+    "answerKey": "C",
+    "answerText": "风险识别",
+    "knowledge": "项目风险管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选2",
+    "id": 157,
+    "sourceNo": 2
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "项目采购管理的流程不包括(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "采购规划"
+      },
+      {
+        "key": "B",
+        "text": "采购合同履行"
+      },
+      {
+        "key": "C",
+        "text": "项目验收"
+      },
+      {
+        "key": "D",
+        "text": "供应商选择"
+      }
+    ],
+    "answer": "C:项目验收",
+    "answerKey": "C",
+    "answerText": "项目验收",
+    "knowledge": "项目采购管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选3",
+    "id": 158,
+    "sourceNo": 3
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "项目进度偏差的计算公式是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "计划进度-实际进度"
+      },
+      {
+        "key": "B",
+        "text": "计划成本-实际成本"
+      },
+      {
+        "key": "C",
+        "text": "实际成本-计划成本"
+      },
+      {
+        "key": "D",
+        "text": "实际进度-计划进度"
+      }
+    ],
+    "answer": "D:实际进度-计划进度",
+    "answerKey": "D",
+    "answerText": "实际进度-计划进度",
+    "knowledge": "进度偏差",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选4",
+    "id": 159,
+    "sourceNo": 4
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "项目进度滞后时，可采取的调整措施不包括(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "增加资源"
+      },
+      {
+        "key": "B",
+        "text": "缩短关键活动时间"
+      },
+      {
+        "key": "C",
+        "text": "减少项目范围"
+      },
+      {
+        "key": "D",
+        "text": "调整活动顺序"
+      }
+    ],
+    "answer": "C:减少项目范围",
+    "answerKey": "C",
+    "answerText": "减少项目范围",
+    "knowledge": "进度控制",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选5",
+    "id": 160,
+    "sourceNo": 5
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "风险评估的核心是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "评估风险造成的影响"
+      },
+      {
+        "key": "B",
+        "text": "评估风险发生的概率"
+      },
+      {
+        "key": "C",
+        "text": "以上都是"
+      },
+      {
+        "key": "D",
+        "text": "确定风险等级"
+      }
+    ],
+    "answer": "C:以上都是",
+    "answerKey": "C",
+    "answerText": "以上都是",
+    "knowledge": "风险评估",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选6",
+    "id": 161,
+    "sourceNo": 6
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "把项目风险转移给第三方的应对方式是【    】",
+    "options": [
+      {
+        "key": "A",
+        "text": "减轻"
+      },
+      {
+        "key": "B",
+        "text": "接受"
+      },
+      {
+        "key": "C",
+        "text": "转移"
+      },
+      {
+        "key": "D",
+        "text": "规避"
+      }
+    ],
+    "answer": "C:转移",
+    "answerKey": "C",
+    "answerText": "转移",
+    "knowledge": "风险应对",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选7",
+    "id": 162,
+    "sourceNo": 7
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "Scrum中的冲刺周期通常为(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "4-6周"
+      },
+      {
+        "key": "B",
+        "text": "6-8周"
+      },
+      {
+        "key": "C",
+        "text": "1-2周"
+      },
+      {
+        "key": "D",
+        "text": "2-4周"
+      }
+    ],
+    "answer": "D:2-4周",
+    "answerKey": "D",
+    "answerText": "2-4周",
+    "knowledge": "Scrum",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选8",
+    "id": 163,
+    "sourceNo": 8
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "下列不属于项目生命周期阶段的是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "规划阶段"
+      },
+      {
+        "key": "B",
+        "text": "启动阶段"
+      },
+      {
+        "key": "C",
+        "text": "执行阶段"
+      },
+      {
+        "key": "D",
+        "text": "运营阶段"
+      }
+    ],
+    "answer": "D:运营阶段",
+    "answerKey": "D",
+    "answerText": "运营阶段",
+    "knowledge": "项目生命周期",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选9",
+    "id": 164,
+    "sourceNo": 9
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "项目沟通管理中，最正式的沟通方式是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "口头闲聊"
+      },
+      {
+        "key": "B",
+        "text": "微信群聊"
+      },
+      {
+        "key": "C",
+        "text": "书面报告"
+      },
+      {
+        "key": "D",
+        "text": "临时会议"
+      }
+    ],
+    "answer": "C:书面报告",
+    "answerKey": "C",
+    "answerText": "书面报告",
+    "knowledge": "项目沟通管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选10",
+    "id": 165,
+    "sourceNo": 10
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "项目验收的核心是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "检查项目成果是否符合要求"
+      },
+      {
+        "key": "B",
+        "text": "确认项目工期"
+      },
+      {
+        "key": "C",
+        "text": "确认项目成本"
+      },
+      {
+        "key": "D",
+        "text": "评估项目风险"
+      }
+    ],
+    "answer": "A:检查项目成果是否符合要求",
+    "answerKey": "A",
+    "answerText": "检查项目成果是否符合要求",
+    "knowledge": "项目验收",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选11",
+    "id": 166,
+    "sourceNo": 11
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "下列属于项目固定成本的是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "临时人工费"
+      },
+      {
+        "key": "B",
+        "text": "材料采购费"
+      },
+      {
+        "key": "C",
+        "text": "设备折旧费"
+      },
+      {
+        "key": "D",
+        "text": "现场差旅费"
+      }
+    ],
+    "answer": "C:设备折旧费",
+    "answerKey": "C",
+    "answerText": "设备折旧费",
+    "knowledge": "项目成本分类",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选12",
+    "id": 167,
+    "sourceNo": 12
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "项目管理三大核心目标不包括(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "员工工龄"
+      },
+      {
+        "key": "B",
+        "text": "质量"
+      },
+      {
+        "key": "C",
+        "text": "成本"
+      },
+      {
+        "key": "D",
+        "text": "进度"
+      }
+    ],
+    "answer": "A:员工工龄",
+    "answerKey": "A",
+    "answerText": "员工工龄",
+    "knowledge": "项目三重约束",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选13",
+    "id": 168,
+    "sourceNo": 13
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "项目决策中，最基础的决策类型是(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "随意决策"
+      },
+      {
+        "key": "B",
+        "text": "个人主观决策"
+      },
+      {
+        "key": "C",
+        "text": "日常决策"
+      },
+      {
+        "key": "D",
+        "text": "战略决策"
+      }
+    ],
+    "answer": "D:战略决策",
+    "answerKey": "D",
+    "answerText": "战略决策",
+    "knowledge": "项目决策",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选14",
+    "id": 169,
+    "sourceNo": 14
+  },
+  {
+    "type": "单选题",
+    "mode": "choice",
+    "stem": "Scrum是一种(    )",
+    "options": [
+      {
+        "key": "A",
+        "text": "成本控制方法"
+      },
+      {
+        "key": "B",
+        "text": "风险评估方法"
+      },
+      {
+        "key": "C",
+        "text": "传统项目管理方法"
+      },
+      {
+        "key": "D",
+        "text": "敏捷项目管理框架"
+      }
+    ],
+    "answer": "D:敏捷项目管理框架",
+    "answerKey": "D",
+    "answerText": "敏捷项目管理框架",
+    "knowledge": "Scrum",
+    "source": "检测模拟题",
+    "sourceLocalId": "单选15",
+    "id": 170,
+    "sourceNo": 15
+  },
+  {
+    "type": "填空题",
+    "mode": "fill",
+    "stem": "项目成功的三个核心要素是范围、____和成本，称为项目铁三角。",
+    "options": [],
+    "answer": "进度",
+    "answerKey": "",
+    "answerText": "进度",
+    "knowledge": "项目三重约束",
+    "source": "检测模拟题",
+    "sourceLocalId": "填空1",
+    "id": 171,
+    "sourceNo": 16
+  },
+  {
+    "type": "填空题",
+    "mode": "fill",
+    "stem": "项目经理是项目的____，对项目的成功与否负主要责任。",
+    "options": [],
+    "answer": "负责人",
+    "answerKey": "",
+    "answerText": "负责人",
+    "knowledge": "项目经理责任",
+    "source": "检测模拟题",
+    "sourceLocalId": "填空2",
+    "id": 172,
+    "sourceNo": 17
+  },
+  {
+    "type": "填空题",
+    "mode": "fill",
+    "stem": "产品待办列表是Scrum中记录所有____的清单，由产品负责人维护。",
+    "options": [],
+    "answer": "项目需求",
+    "answerKey": "",
+    "answerText": "项目需求",
+    "knowledge": "Scrum",
+    "source": "检测模拟题",
+    "sourceLocalId": "填空3",
+    "id": 173,
+    "sourceNo": 18
+  },
+  {
+    "type": "填空题",
+    "mode": "fill",
+    "stem": "风险评估分为定性评估和____评估两种方式。",
+    "options": [],
+    "answer": "定量",
+    "answerKey": "",
+    "answerText": "定量",
+    "knowledge": "风险评估",
+    "source": "检测模拟题",
+    "sourceLocalId": "填空4",
+    "id": 174,
+    "sourceNo": 19
+  },
+  {
+    "type": "填空题",
+    "mode": "fill",
+    "stem": "项目沟通管理的核心是保障信息____传递。",
+    "options": [],
+    "answer": "完整顺畅",
+    "answerKey": "",
+    "answerText": "完整顺畅",
+    "knowledge": "项目沟通管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "填空5",
+    "id": 175,
+    "sourceNo": 20
+  },
+  {
+    "type": "判断题",
+    "mode": "choice",
+    "stem": "客户是项目最核心的干系人之一。",
+    "options": [
+      {
+        "key": "A",
+        "text": "对"
+      },
+      {
+        "key": "B",
+        "text": "错"
+      }
+    ],
+    "answer": "对",
+    "answerKey": "A",
+    "answerText": "对",
+    "knowledge": "项目干系人",
+    "source": "检测模拟题",
+    "sourceLocalId": "判断1",
+    "id": 176,
+    "sourceNo": 21
+  },
+  {
+    "type": "判断题",
+    "mode": "choice",
+    "stem": "非正式沟通可以完全替代项目正式书面沟通。",
+    "options": [
+      {
+        "key": "A",
+        "text": "对"
+      },
+      {
+        "key": "B",
+        "text": "错"
+      }
+    ],
+    "answer": "错",
+    "answerKey": "B",
+    "answerText": "错",
+    "knowledge": "项目沟通管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "判断2",
+    "id": 177,
+    "sourceNo": 22
+  },
+  {
+    "type": "判断题",
+    "mode": "choice",
+    "stem": "关键路径上的活动都是非关键活动。",
+    "options": [
+      {
+        "key": "A",
+        "text": "对"
+      },
+      {
+        "key": "B",
+        "text": "错"
+      }
+    ],
+    "answer": "错",
+    "answerKey": "B",
+    "answerText": "错",
+    "knowledge": "关键路径",
+    "source": "检测模拟题",
+    "sourceLocalId": "判断3",
+    "id": 178,
+    "sourceNo": 23
+  },
+  {
+    "type": "判断题",
+    "mode": "choice",
+    "stem": "风险接受是指主动承担项目潜在风险带来的损失。",
+    "options": [
+      {
+        "key": "A",
+        "text": "对"
+      },
+      {
+        "key": "B",
+        "text": "错"
+      }
+    ],
+    "answer": "对",
+    "answerKey": "A",
+    "answerText": "对",
+    "knowledge": "风险应对",
+    "source": "检测模拟题",
+    "sourceLocalId": "判断4",
+    "id": 179,
+    "sourceNo": 24
+  },
+  {
+    "type": "判断题",
+    "mode": "choice",
+    "stem": "非正式沟通方式比正式沟通方式更规范、更可追溯。",
+    "options": [
+      {
+        "key": "A",
+        "text": "对"
+      },
+      {
+        "key": "B",
+        "text": "错"
+      }
+    ],
+    "answer": "错",
+    "answerKey": "B",
+    "answerText": "错",
+    "knowledge": "项目沟通管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "判断5",
+    "id": 180,
+    "sourceNo": 25
+  },
+  {
+    "type": "简答题",
+    "mode": "recite",
+    "stem": "简述项目成本管理的三个过程及其相互关系。",
+    "options": [],
+    "answer": "项目成本管理包括成本估算、成本预算和成本控制三个过程，三者相互关联、相互制约。\n（1）成本估算：核心是对完成项目各项工作所需的资源成本进行估算，得出项目的总估算成本，是成本预算的基础。估算结果的准确性直接影响后续的成本预算和控制工作。\n（2）成本预算：核心是将项目总估算成本分配到各个工作包和活动中，制定详细的成本预算计划，明确各工作包和活动的成本限额，是成本控制的依据。成本预算是在成本估算的基础上进行的，预算结果需与估算结果保持一致。\n（3）成本控制：核心是监控项目实际成本与预算成本的偏差，分析偏差原因，采取纠正措施，确保项目成本控制在预算范围内。成本控制需以成本预算为依据，同时反馈偏差信息，为后续的成本估算和预算调整提供参考。\n三者的关系：成本估算是基础，成本预算是桥梁，成本控制是保障，共同实现项目成本管理的目标。",
+    "answerKey": "",
+    "answerText": "项目成本管理包括成本估算、成本预算和成本控制三个过程，三者相互关联、相互制约。\n（1）成本估算：核心是对完成项目各项工作所需的资源成本进行估算，得出项目的总估算成本，是成本预算的基础。估算结果的准确性直接影响后续的成本预算和控制工作。\n（2）成本预算：核心是将项目总估算成本分配到各个工作包和活动中，制定详细的成本预算计划，明确各工作包和活动的成本限额，是成本控制的依据。成本预算是在成本估算的基础上进行的，预算结果需与估算结果保持一致。\n（3）成本控制：核心是监控项目实际成本与预算成本的偏差，分析偏差原因，采取纠正措施，确保项目成本控制在预算范围内。成本控制需以成本预算为依据，同时反馈偏差信息，为后续的成本估算和预算调整提供参考。\n三者的关系：成本估算是基础，成本预算是桥梁，成本控制是保障，共同实现项目成本管理的目标。",
+    "knowledge": "项目成本管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "简答1",
+    "id": 181,
+    "sourceNo": 26
+  },
+  {
+    "type": "简答题",
+    "mode": "recite",
+    "stem": "简述项目范围管理的主要过程及其核心内容。",
+    "options": [],
+    "answer": "项目范围管理包括范围规划、范围定义、范围确认和范围控制四个主要过程。\n（1）范围规划：核心内容是制定范围管理计划，明确范围管理的方法、工具、职责和流程，为后续的范围管理工作提供指导。\n（2）范围定义：核心内容是明确项目的范围边界，将项目目标分解为具体的可交付成果，制定项目范围说明书，明确项目包括和不包括的工作内容。\n（3）范围确认：核心内容是组织项目干系人对项目范围说明书和可交付成果进行审查和确认，确保各方对项目范围达成一致，形成范围确认文件。\n（4）范围控制：核心内容是监控项目范围的变化，识别范围变更请求，对变更请求进行评估和审批，控制范围蔓延，确保项目范围始终符合项目目标。",
+    "answerKey": "",
+    "answerText": "项目范围管理包括范围规划、范围定义、范围确认和范围控制四个主要过程。\n（1）范围规划：核心内容是制定范围管理计划，明确范围管理的方法、工具、职责和流程，为后续的范围管理工作提供指导。\n（2）范围定义：核心内容是明确项目的范围边界，将项目目标分解为具体的可交付成果，制定项目范围说明书，明确项目包括和不包括的工作内容。\n（3）范围确认：核心内容是组织项目干系人对项目范围说明书和可交付成果进行审查和确认，确保各方对项目范围达成一致，形成范围确认文件。\n（4）范围控制：核心内容是监控项目范围的变化，识别范围变更请求，对变更请求进行评估和审批，控制范围蔓延，确保项目范围始终符合项目目标。",
+    "knowledge": "项目范围管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "简答2",
+    "id": 182,
+    "sourceNo": 27
+  },
+  {
+    "type": "名词解释",
+    "mode": "recite",
+    "stem": "项目干系人",
+    "options": [],
+    "answer": "参与项目或受项目影响的个人和组织，包括项目经理、项目团队成员、客户、供应商、投资方等。",
+    "answerKey": "",
+    "answerText": "参与项目或受项目影响的个人和组织，包括项目经理、项目团队成员、客户、供应商、投资方等。",
+    "knowledge": "项目干系人",
+    "source": "检测模拟题",
+    "sourceLocalId": "名词解释1",
+    "id": 183,
+    "sourceNo": 28
+  },
+  {
+    "type": "名词解释",
+    "mode": "recite",
+    "stem": "项目范围管理",
+    "options": [],
+    "answer": "项目范围管理是对项目所要完成的工作内容进行界定、规划、定义、核实与控制，明确项目工作边界，防止范围随意变更与蔓延的全过程管理。",
+    "answerKey": "",
+    "answerText": "项目范围管理是对项目所要完成的工作内容进行界定、规划、定义、核实与控制，明确项目工作边界，防止范围随意变更与蔓延的全过程管理。",
+    "knowledge": "项目范围管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "名词解释2",
+    "id": 184,
+    "sourceNo": 29
+  },
+  {
+    "type": "案例分析题",
+    "mode": "recite",
+    "stem": "某企业推行一个信息化建设项目，项目团队由企业内部员工和外部咨询顾问组成。在项目实施过程中，团队成员之间由于工作理念、工作方式不同，经常发生冲突，导致项目效率低下，进度滞后。问题：(1)该项目团队冲突的主要类型是什么？(2)作为项目经理，应如何有效处理团队冲突？",
+    "options": [],
+    "answer": "(1)主要冲突类型：\n①理念与认知冲突：内部员工熟悉企业业务但缺乏信息化专业理念，外部顾问有专业技术但不了解企业实际业务，实施思路和工作方式存在分歧；\n②沟通冲突：内外部团队缺乏有效沟通机制，信息传递不及时、不准确，工作衔接不畅，误解加深；\n③职责与分工冲突：未明确内外部人员具体职责，出现工作交叉或遗漏，双方相互推诿。\n（2）冲突处理措施：\n①明确职责分工：制定详细的团队职责说明书，划分内部员工（业务需求对接、流程梳理）和外部顾问（技术方案设计、系统实施）的具体工作，避免推诿；\n②建立有效沟通机制：定期召开项目例会，建立即时沟通渠道，组织业务和技术培训，缩小双方认知差距；\n③采用合适的冲突处理方法：理念分歧用“协作”方式找到最优解，工作衔接冲突用“妥协”方式调整节奏，职责冲突用“强制”方式明确归属；\n④加强团队建设：组织线下座谈、协作任务等团建活动，增进相互了解和信任，营造协同合作的团队氛围。",
+    "answerKey": "",
+    "answerText": "(1)主要冲突类型：\n①理念与认知冲突：内部员工熟悉企业业务但缺乏信息化专业理念，外部顾问有专业技术但不了解企业实际业务，实施思路和工作方式存在分歧；\n②沟通冲突：内外部团队缺乏有效沟通机制，信息传递不及时、不准确，工作衔接不畅，误解加深；\n③职责与分工冲突：未明确内外部人员具体职责，出现工作交叉或遗漏，双方相互推诿。\n（2）冲突处理措施：\n①明确职责分工：制定详细的团队职责说明书，划分内部员工（业务需求对接、流程梳理）和外部顾问（技术方案设计、系统实施）的具体工作，避免推诿；\n②建立有效沟通机制：定期召开项目例会，建立即时沟通渠道，组织业务和技术培训，缩小双方认知差距；\n③采用合适的冲突处理方法：理念分歧用“协作”方式找到最优解，工作衔接冲突用“妥协”方式调整节奏，职责冲突用“强制”方式明确归属；\n④加强团队建设：组织线下座谈、协作任务等团建活动，增进相互了解和信任，营造协同合作的团队氛围。",
+    "knowledge": "团队冲突管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "案例1",
+    "id": 185,
+    "sourceNo": 30
+  },
+  {
+    "type": "案例分析题",
+    "mode": "recite",
+    "stem": "某研发项目未提前识别技术难题风险，研发中途出现技术瓶颈，项目被迫停工。请说明该项目在风险管理上存在的问题及改进方法。",
+    "options": [],
+    "answer": "问题：未开展前期风险识别与评估，风险意识薄弱，无预设风险应对方案。（2分）\n改进：\n（1）项目启动阶段全面识别技术、成本、进度等各类风险；（1.5分）\n（2）对风险进行等级评估；（1.5分）\n（3）提前制定规避、减轻等应对策略；（1.5分）\n（4）全程动态监控风险，及时调整应对方案。（1.5分）",
+    "answerKey": "",
+    "answerText": "问题：未开展前期风险识别与评估，风险意识薄弱，无预设风险应对方案。（2分）\n改进：\n（1）项目启动阶段全面识别技术、成本、进度等各类风险；（1.5分）\n（2）对风险进行等级评估；（1.5分）\n（3）提前制定规避、减轻等应对策略；（1.5分）\n（4）全程动态监控风险，及时调整应对方案。（1.5分）",
+    "knowledge": "项目风险管理",
+    "source": "检测模拟题",
+    "sourceLocalId": "案例2",
+    "id": 186,
+    "sourceNo": 31
   }
 ];
