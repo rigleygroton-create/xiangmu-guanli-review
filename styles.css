@@ -228,17 +228,24 @@ h1 {
   margin-bottom: 16px;
 }
 
-.practice-modes {
+.practice-controls {
+  display: grid;
+  gap: 8px;
+  min-width: min(100%, 500px);
+}
+
+.practice-modes,
+.source-modes {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 6px;
   border-radius: 8px;
   background: #e9eef2;
   padding: 6px;
-  min-width: min(100%, 380px);
 }
 
-.mode-btn {
+.mode-btn,
+.source-btn {
   min-height: 42px;
   border: 0;
   border-radius: 8px;
@@ -248,7 +255,8 @@ h1 {
   white-space: nowrap;
 }
 
-.mode-btn.active {
+.mode-btn.active,
+.source-btn.active {
   background: #1b8061;
   color: #ffffff;
 }
@@ -507,7 +515,9 @@ pre {
     flex-direction: column;
   }
 
-  .practice-modes {
+  .practice-controls,
+  .practice-modes,
+  .source-modes {
     min-width: 0;
     width: 100%;
   }

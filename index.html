@@ -37,10 +37,17 @@
 
           <article class="battle-view view active" id="battleView">
             <div class="practice-bar">
-              <div class="practice-modes" aria-label="刷题方式">
-                <button class="mode-btn active" data-mode="order" type="button">顺序刷题</button>
-                <button class="mode-btn" data-mode="random" type="button">随机刷题</button>
-                <button class="mode-btn" data-mode="wrong" type="button">只刷错题</button>
+              <div class="practice-controls">
+                <div class="source-modes" aria-label="题库来源">
+                  <button class="source-btn active" data-source="all" type="button">全部题库</button>
+                  <button class="source-btn" data-source="学习通原题库" type="button">学习通原题库</button>
+                  <button class="source-btn" data-source="检测模拟题" type="button">检测模拟题</button>
+                </div>
+                <div class="practice-modes" aria-label="刷题方式">
+                  <button class="mode-btn active" data-mode="order" type="button">顺序刷题</button>
+                  <button class="mode-btn" data-mode="random" type="button">随机刷题</button>
+                  <button class="mode-btn" data-mode="wrong" type="button">只刷错题</button>
+                </div>
               </div>
               <select id="battleTypeFilter" aria-label="刷题题型">
                 <option value="单选题">单选题</option>

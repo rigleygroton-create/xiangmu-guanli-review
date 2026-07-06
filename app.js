@@ -59,6 +59,7 @@ function loadState() {
     seenIds: saved.seenIds || [],
     practiceMode: saved.practiceMode || "order",
     battleType: saved.battleType || "单选题",
+    battleSource: saved.battleSource || "all",
   };
 }
 
@@ -84,10 +85,13 @@ function shuffle(items) {
 
 function getQuestionPool() {
   let pool = questions.filter((q) => q.type === state.battleType);
+  if (state.battleSource !== "all") {
+    pool = pool.filter((q) => (q.source || "学习通原题库") === state.battleSource);
+  }
   if (state.practiceMode === "wrong") {
     return pool.filter((q) => state.wrongIds.includes(q.id));
   }
-  return pool.length ? pool : questions.filter((q) => q.type === state.battleType);
+  return pool;
 }
 
 function createRound() {
@@ -270,6 +274,7 @@ function resetProgress() {
     seenIds: [],
     practiceMode: state.practiceMode,
     battleType: state.battleType,
+    battleSource: state.battleSource,
   };
   saveState();
   startRound();
@@ -350,6 +355,9 @@ function setupBankTools() {
   document.querySelectorAll(".mode-btn").forEach((button) => {
     button.classList.toggle("active", button.dataset.mode === state.practiceMode);
   });
+  document.querySelectorAll(".source-btn").forEach((button) => {
+    button.classList.toggle("active", button.dataset.source === state.battleSource);
+  });
 }
 
 function modeLabel() {
@@ -358,13 +366,18 @@ function modeLabel() {
   return "顺序刷题";
 }
 
+function sourceLabel() {
+  if (state.battleSource === "all") return "全部题库";
+  return state.battleSource;
+}
+
 function showRoundReport() {
   const total = round.ids.length;
   const wrong = Math.max(0, round.answered - round.correct);
   els.roundTitle.textContent = total ? "本轮完成" : "暂无可刷题目";
   els.roundSummary.textContent = total
-    ? `${modeLabel()} · ${state.battleType}：本轮作答 ${round.answered} 题，答对 ${round.correct} 题，答错 ${wrong} 题。`
-    : `${modeLabel()} · ${state.battleType}：没有可刷题目。`;
+    ? `${sourceLabel()} · ${modeLabel()} · ${state.battleType}：本轮作答 ${round.answered} 题，答对 ${round.correct} 题，答错 ${wrong} 题。`
+    : `${sourceLabel()} · ${modeLabel()} · ${state.battleType}：没有可刷题目。`;
   els.roundModal.classList.add("active");
   els.roundModal.setAttribute("aria-hidden", "false");
 }
@@ -421,6 +434,15 @@ document.querySelectorAll(".mode-btn").forEach((button) => {
   button.addEventListener("click", () => {
     state.practiceMode = button.dataset.mode;
     document.querySelectorAll(".mode-btn").forEach((item) => item.classList.remove("active"));
+    button.classList.add("active");
+    saveState();
+    startRound();
+  });
+});
+document.querySelectorAll(".source-btn").forEach((button) => {
+  button.addEventListener("click", () => {
+    state.battleSource = button.dataset.source;
+    document.querySelectorAll(".source-btn").forEach((item) => item.classList.remove("active"));
     button.classList.add("active");
     saveState();
     startRound();
