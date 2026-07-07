@@ -923,7 +923,7 @@ window.QUESTION_BANK = [
     "id": 43,
     "type": "单选题",
     "mode": "choice",
-    "stem": "把项目风险转移给第三方的应对方式是【        】",
+    "stem": "把项目风险交由第三方承担的应对方式是【        】",
     "options": [
       {
         "key": "A",
@@ -3302,7 +3302,7 @@ window.QUESTION_BANK = [
     "id": 137,
     "type": "判断题",
     "mode": "choice",
-    "stem": "项目范围蔓延会推高成本、拉长工期。(对)",
+    "stem": "项目范围蔓延会推高成本、拉长工期。",
     "options": [
       {
         "key": "A",
@@ -3456,7 +3456,7 @@ window.QUESTION_BANK = [
     "id": 144,
     "type": "判断题",
     "mode": "choice",
-    "stem": "项目风险仅包含技术风险，不包含沟通、资金风险。(错)",
+    "stem": "项目风险仅包含技术风险，不包含沟通、资金风险。",
     "options": [
       {
         "key": "A",
@@ -3544,7 +3544,7 @@ window.QUESTION_BANK = [
     "id": 148,
     "type": "判断题",
     "mode": "choice",
-    "stem": "项目监控阶段可以穿插在执行阶段同步开展。(对)",
+    "stem": "项目监控阶段可以穿插在执行阶段同步开展。",
     "options": [
       {
         "key": "A",
@@ -3588,7 +3588,7 @@ window.QUESTION_BANK = [
     "id": 150,
     "type": "判断题",
     "mode": "choice",
-    "stem": "临时性是区分项目与常态化工作的核心特征。(对)",
+    "stem": "临时性是区分项目与常态化工作的核心特征。",
     "options": [
       {
         "key": "A",
@@ -3632,7 +3632,7 @@ window.QUESTION_BANK = [
     "id": 152,
     "type": "判断题",
     "mode": "choice",
-    "stem": "书面沟通留存凭证，可减少项目权责纠纷。(对)",
+    "stem": "书面沟通留存凭证，可减少项目权责纠纷。",
     "options": [
       {
         "key": "A",
@@ -3905,7 +3905,7 @@ window.QUESTION_BANK = [
   {
     "type": "单选题",
     "mode": "choice",
-    "stem": "把项目风险转移给第三方的应对方式是【    】",
+    "stem": "把项目风险交由第三方承担的应对方式是【    】",
     "options": [
       {
         "key": "A",
