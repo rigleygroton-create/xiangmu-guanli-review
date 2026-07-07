@@ -74,6 +74,17 @@ function normalize(value) {
     .toLowerCase();
 }
 
+function getCorrectOption(question, options = question.options || []) {
+  const answerKey = normalize(question.answerKey);
+  const answerText = normalize(question.answerText || question.answer);
+  return (
+    options.find((option) => normalize(option.key) === answerKey) ||
+    options.find((option) => normalize(option.text) === answerKey) ||
+    options.find((option) => normalize(option.text) === answerText) ||
+    null
+  );
+}
+
 function shuffle(items) {
   const copy = [...items];
   for (let i = copy.length - 1; i > 0; i -= 1) {
@@ -187,7 +198,7 @@ function renderQuestion() {
 
 function showAnswer() {
   if (current.mode === "choice" && renderedOptions.length) {
-    const correctOption = renderedOptions.find((option) => option.key === current.answerKey);
+    const correctOption = getCorrectOption(current, renderedOptions);
     els.answerText.textContent = correctOption
       ? `${correctOption.displayKey}: ${correctOption.text}`
       : current.answer || "未提取到答案";
@@ -230,11 +241,13 @@ function recordResult(isCorrect) {
 }
 
 function gradeChoice(key) {
+  if (answered) return;
   const selected = renderedOptions.find((option) => option.displayKey === key);
-  const correct = selected && selected.key === current.answerKey;
+  const correctOption = getCorrectOption(current, renderedOptions);
+  const correct = Boolean(selected && correctOption && selected.key === correctOption.key);
   document.querySelectorAll(".option").forEach((button) => {
     const buttonKey = button.dataset.optionKey;
-    if (buttonKey === current.answerKey) button.classList.add("correct");
+    if (correctOption && buttonKey === correctOption.key) button.classList.add("correct");
     if (button.dataset.displayKey === key && !correct) button.classList.add("wrong");
   });
   els.result.textContent = correct ? "胜利" : "败方 MVP";
@@ -244,9 +257,10 @@ function gradeChoice(key) {
 }
 
 function gradeFill() {
+  if (answered) return;
   const guess = normalize(els.fillInput.value);
   const answer = normalize(current.answerText || current.answer);
-  const correct = answer && (guess === answer || guess.includes(answer) || answer.includes(guess));
+  const correct = Boolean(guess && answer && (guess === answer || guess.includes(answer) || answer.includes(guess)));
   els.result.textContent = correct ? "胜利" : "回城复盘";
   els.result.classList.add(correct ? "good" : "bad");
   showAnswer();
@@ -404,12 +418,14 @@ els.fillInput.addEventListener("keydown", (event) => {
 });
 els.showAnswer.addEventListener("click", showAnswer);
 els.markKnown.addEventListener("click", () => {
+  if (answered) return;
   els.result.textContent = "胜利";
   els.result.classList.add("good");
   showAnswer();
   recordResult(true);
 });
 els.markWrong.addEventListener("click", () => {
+  if (answered) return;
   els.result.textContent = "回城复盘";
   els.result.classList.add("bad");
   showAnswer();
